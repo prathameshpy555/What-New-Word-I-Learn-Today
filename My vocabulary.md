@@ -7,3 +7,4 @@
 ### 09-Sep-2020
 * Apprentice  = Beginner.
 * Amiable     = Friendly and Pleasant.
+* Draped      = Covered.
