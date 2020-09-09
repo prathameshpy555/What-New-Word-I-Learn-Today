@@ -8,3 +8,4 @@
 * Apprentice  = Beginner.
 * Amiable     = Friendly and Pleasant.
 * Draped      = Covered.
+* Contentment = Satisfaction.
