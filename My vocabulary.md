@@ -9,3 +9,8 @@
 * Amiable     = Friendly and Pleasant.
 * Draped      = Covered.
 * Contentment = Satisfaction.
+### 10-sep-2020
+* Precipitation = rain.
+* Drizzle       = Light rainfall.
+* Footman       = Male servant
+* 
