@@ -12,5 +12,6 @@
 ### 10-sep-2020
 * Precipitation = rain.
 * Drizzle       = Light rainfall.
-* Footman       = Male servant
-* 
+* Footman       = Male servant.
+* Lofty         = Very High.
+* Scut          = Short tail of an animal.
