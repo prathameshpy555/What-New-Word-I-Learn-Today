@@ -17,3 +17,5 @@
 * Scut          = Short tail of an animal.
 ### 11-Sep-2020
 * Nostalgic  = Feelings.
+* Eliminate  = To remove.
+* Euthenics  = The study of the control of environment.
