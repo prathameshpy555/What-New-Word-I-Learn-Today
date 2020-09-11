@@ -19,3 +19,5 @@
 * Nostalgic  = Feelings.
 * Eliminate  = To remove.
 * Euthenics  = The study of the control of environment.
+* Elicit     = To draw out.
+* Queer      = Strange.
