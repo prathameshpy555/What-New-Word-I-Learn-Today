@@ -9,9 +9,11 @@
 * Amiable     = Friendly and Pleasant.
 * Draped      = Covered.
 * Contentment = Satisfaction.
-### 10-sep-2020
+### 10-Sep-2020
 * Precipitation = rain.
 * Drizzle       = Light rainfall.
 * Footman       = Male servant.
 * Lofty         = Very High.
 * Scut          = Short tail of an animal.
+### 11-Sep-2020
+* Nostalgic  = Feelings.
