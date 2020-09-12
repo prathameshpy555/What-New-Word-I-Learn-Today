@@ -21,3 +21,5 @@
 * Euthenics  = The study of the control of environment.
 * Elicit     = To draw out.
 * Queer      = Strange.
+### 12-Sep-2020
+* Fragile = Easily broken or damaged.
