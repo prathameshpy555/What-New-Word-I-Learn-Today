@@ -24,3 +24,6 @@
 ### 12-Sep-2020
 * Fragile = Easily broken or damaged.
 * Null    = Of no effect.
+* Glad    = Joyful.
+* Jerky   = Not smooth.
+* Unapt   = Not suitable.
