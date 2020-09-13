@@ -27,3 +27,5 @@
 * Glad    = Joyful.
 * Jerky   = Not smooth.
 * Unapt   = Not suitable.
+### 13-Sep-2020
+* Prime       = Best.
