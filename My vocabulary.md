@@ -29,3 +29,5 @@
 * Unapt   = Not suitable.
 ### 13-Sep-2020
 * Prime       = Best.
+* Damp        = Wet.
+* Embarrassed = Ashamed.
