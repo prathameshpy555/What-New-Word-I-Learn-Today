@@ -31,3 +31,5 @@
 * Prime       = Best.
 * Damp        = Wet.
 * Embarrassed = Ashamed.
+* Lavish      = Very grand.
+* Pretended   = Not real.
