@@ -33,3 +33,9 @@
 * Embarrassed = Ashamed.
 * Lavish      = Very grand.
 * Pretended   = Not real.
+### 14-Sep-2020
+* Visor = A mask.
+* Urge  = Try earnestly or persistently to persuade (someone) to do something.
+* Blunder = A stupid or careless mistake.
+* Sound off = Express one's opinions in a loud or forceful manner.
+* Anxiety = A felling of worry.
