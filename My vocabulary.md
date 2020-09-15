@@ -39,3 +39,9 @@
 * Blunder = A stupid or careless mistake.
 * Sound off = Express one's opinions in a loud or forceful manner.
 * Anxiety = A felling of worry.
+### 15-Sep-2020
+* Utter = complete.
+* Elusive = difficult to find.
+* Niche = a shallow recess, especially one in a wall to display a statue or other ornament.
+* Relevant = closely connected or appropriate to what is being done or considered.
+* Pursue = follow or chase
