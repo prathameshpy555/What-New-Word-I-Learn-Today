@@ -34,14 +34,20 @@
 * Lavish      = Very grand.
 * Pretended   = Not real.
 ### 14-Sep-2020
-* Visor = A mask.
-* Urge  = Try earnestly or persistently to persuade (someone) to do something.
-* Blunder = A stupid or careless mistake.
+* Visor     = A mask.
+* Urge      = Try earnestly or persistently to persuade (someone) to do something.
+* Blunder   = A stupid or careless mistake.
 * Sound off = Express one's opinions in a loud or forceful manner.
-* Anxiety = A felling of worry.
+* Anxiety   = A felling of worry.
 ### 15-Sep-2020
-* Utter = complete.
-* Elusive = difficult to find.
-* Niche = a shallow recess, especially one in a wall to display a statue or other ornament.
+* Utter    = complete.
+* Elusive  = difficult to find.
+* Niche    = a shallow recess, especially one in a wall to display a statue or other ornament.
 * Relevant = closely connected or appropriate to what is being done or considered.
-* Pursue = follow or chase
+* Pursue   = follow or chase
+### 16-Sep-2020
+* Bewildered = Confused.
+* Eject      = Remove.
+* Eccentric  = Strange.
+* Curious    = Eager to know or learn something.
+* Chink      = A narrow opening.
