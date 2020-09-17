@@ -55,3 +55,5 @@
 * Passably = Just well ample.
 * Espionage = Spying.
 * Prosaic   = Ordinary.
+* Chuckled  = Laughed quietly, without opening his mouth.
+* Shrilly   = In a high pitch.
