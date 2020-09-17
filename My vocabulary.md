@@ -53,3 +53,4 @@
 * Chink      = A narrow opening.
 ### 17-Sep-2020
 * Passably = Just well ample.
+* Espionage = Spying.
