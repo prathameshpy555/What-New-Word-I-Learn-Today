@@ -57,3 +57,9 @@
 * Prosaic   = Ordinary.
 * Chuckled  = Laughed quietly, without opening his mouth.
 * Shrilly   = In a high pitch.
+### 18-Sep-2020
+* Carriages = Any of the separate sections of a train that carry passengers.
+* Heavily   = To a great degree; in large amounts.
+* Tuck      = Push.
+* Appealing = Attractive.
+* Grunting  = Making low guttural sounds.
