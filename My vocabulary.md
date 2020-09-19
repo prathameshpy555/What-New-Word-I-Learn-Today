@@ -63,3 +63,9 @@
 * Tuck      = Push.
 * Appealing = Attractive.
 * Grunting  = Making low guttural sounds.
+### 19-Sep-2020
+* County     = Region.
+* Entomology = The study of insects.
+* Hack       = A hourse-drawn vehicle.
+* Earnestly  = Very seriously.
+* Creek      = Short arm os river.
