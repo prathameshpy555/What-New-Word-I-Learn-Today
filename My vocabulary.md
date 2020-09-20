@@ -73,3 +73,5 @@
 * Sou = A former French coin of low value.
 * Awary = Twisted.
 * Incessantly = Continuously.
+* Ruinous = Disastrous.
+* Squatted = Sat on their heels.
