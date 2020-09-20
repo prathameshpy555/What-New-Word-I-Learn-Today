@@ -72,3 +72,4 @@
 ### 20-Sep-2020
 * Sou = A former French coin of low value.
 * Awary = Twisted.
+* Incessantly = Continuously.
