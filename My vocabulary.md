@@ -69,3 +69,5 @@
 * Hack       = A hourse-drawn vehicle.
 * Earnestly  = Very seriously.
 * Creek      = Short arm os river.
+### 20-Sep-2020
+* Sou = A former French coin of low value.
