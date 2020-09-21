@@ -52,7 +52,7 @@
 * Curious    = Eager to know or learn something.
 * Chink      = A narrow opening.
 ### 17-Sep-2020
-* Passably = Just well ample.
+* Passably  = Just well ample.
 * Espionage = Spying.
 * Prosaic   = Ordinary.
 * Chuckled  = Laughed quietly, without opening his mouth.
@@ -75,3 +75,5 @@
 * Incessantly = Continuously.
 * Ruinous = Disastrous.
 * Squatted = Sat on their heels.
+### 21-Sep-2020
+* Adorn = Make a beautiful or attractive.
