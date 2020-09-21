@@ -79,3 +79,5 @@
 * Adorn = Make a beautiful or attractive.
 * Elegantly = In a stylish manner.
 * Chic      = Fashionable.
+* Humiliating = Making someone ashamed.
+* Courteous = Polite.
