@@ -78,3 +78,4 @@
 ### 21-Sep-2020
 * Adorn = Make a beautiful or attractive.
 * Elegantly = In a stylish manner.
+* Chic      = Fashionable.
