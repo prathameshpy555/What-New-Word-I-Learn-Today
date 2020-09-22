@@ -84,3 +84,6 @@
 ### 22-Sep-2020
 * Poker game = Cards game.
 * Fritzs = German armyy.
+* Tommy = England army.
+* Sloppy = carelessly dressed.
+* Piercingly = In a high pitch.
