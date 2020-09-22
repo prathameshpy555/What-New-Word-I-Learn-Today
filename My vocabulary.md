@@ -81,3 +81,6 @@
 * Chic      = Fashionable.
 * Humiliating = Making someone ashamed.
 * Courteous = Polite.
+### 22-Sep-2020
+* Poker game = Cards game.
+* Fritzs = German armyy.
