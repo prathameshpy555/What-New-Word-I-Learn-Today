@@ -89,3 +89,4 @@
 * Piercingly = In a high pitch.
 ### 23-Sep-2020
 * Clerk = A person employed to keep a record.
+* Summons = Request.
