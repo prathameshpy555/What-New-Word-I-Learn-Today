@@ -90,3 +90,4 @@
 ### 23-Sep-2020
 * Clerk = A person employed to keep a record.
 * Summons = Request.
+* Seek out = find out.
