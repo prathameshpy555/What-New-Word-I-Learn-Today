@@ -96,3 +96,4 @@
 ### 24-Sep-2020
 * Mend = Mean.
 * Matted = Fur.
+* Fear-laden = A feeling of distress.
