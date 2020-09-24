@@ -93,3 +93,5 @@
 * Seek out = find out.
 * Fleeing = To run away.
 * rejoyed = Enjoyed.
+### 24-Sep-2020
+* Mend = Mean.
