@@ -95,3 +95,4 @@
 * rejoyed = Enjoyed.
 ### 24-Sep-2020
 * Mend = Mean.
+* Matted = Fur.
