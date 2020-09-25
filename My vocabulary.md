@@ -99,3 +99,5 @@
 * Fear-laden = A feeling of distress.
 * Squatted = Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs.
 * Slates =  Grey metamorphic rock
+### 25-Sep-2020
+* Fascinated = Attract.
