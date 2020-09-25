@@ -101,3 +101,4 @@
 * Slates =  Grey metamorphic rock
 ### 25-Sep-2020
 * Fascinated = Attract.
+* Orchard    = A piece of enclosed land planted with fruit trees.
