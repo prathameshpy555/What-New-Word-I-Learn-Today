@@ -102,3 +102,6 @@
 ### 25-Sep-2020
 * Fascinated = Attract.
 * Orchard    = A piece of enclosed land planted with fruit trees.
+* Stammer    = Involuntary stops.
+* Scurried   = To move quickly, with small, short steps.
+* lowered    = Move in a downward direction.
