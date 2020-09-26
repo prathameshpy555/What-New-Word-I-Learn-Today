@@ -107,3 +107,4 @@
 * lowered    = Move in a downward direction.
 ### 26-Sep-2020
 * Sobbing = To catch the breath audibly in a spasmodic contraction of the throat.
+* Soothing = Having a gently calming effect./Reducing pain or discomfort.
