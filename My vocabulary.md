@@ -109,3 +109,5 @@
 * Sobbing = To catch the breath audibly in a spasmodic contraction of the throat.
 * Soothing = Having a gently calming effect./Reducing pain or discomfort.
 * Relieved = No longer feeling distressed or anxious; reassured.
+* Patted   = Touch quickly and gently with the flat of the hand.
+* Nodded   = Let one's head fall forward when drowsy or asleep.
