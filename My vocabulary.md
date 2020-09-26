@@ -105,3 +105,5 @@
 * Stammer    = Involuntary stops.
 * Scurried   = To move quickly, with small, short steps.
 * lowered    = Move in a downward direction.
+### 26-Sep-2020
+* Sobbing = To catch the breath audibly in a spasmodic contraction of the throat.
