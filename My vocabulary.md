@@ -111,3 +111,5 @@
 * Relieved = No longer feeling distressed or anxious; reassured.
 * Patted   = Touch quickly and gently with the flat of the hand.
 * Nodded   = Let one's head fall forward when drowsy or asleep.
+### 27-Sep-2020
+* Throbbing = Beating with a strong, regular rhythm.
