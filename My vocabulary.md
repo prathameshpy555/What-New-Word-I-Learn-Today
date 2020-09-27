@@ -113,3 +113,4 @@
 * Nodded   = Let one's head fall forward when drowsy or asleep.
 ### 27-Sep-2020
 * Throbbing = Beating with a strong, regular rhythm.
+* Ginning = Ginning is the process of removing the seeds and debris from cotton.
