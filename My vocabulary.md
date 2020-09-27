@@ -115,3 +115,5 @@
 * Throbbing = Beating with a strong, regular rhythm.
 * Ginning = Ginning is the process of removing the seeds and debris from cotton.
 * Mill = A building equipped with machinery for grinding grain into flour.
+* Dowry = An amount of property or money brought by a bride to her husband on their marriage.
+* Limps = Walk with difficulty, typically because of a damaged or stiff leg or foot.
