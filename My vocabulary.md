@@ -114,3 +114,4 @@
 ### 27-Sep-2020
 * Throbbing = Beating with a strong, regular rhythm.
 * Ginning = Ginning is the process of removing the seeds and debris from cotton.
+* Mill = A building equipped with machinery for grinding grain into flour.
