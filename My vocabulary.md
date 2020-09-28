@@ -120,3 +120,4 @@
 ### 28-Sep-2020
 * Witless = Lacking wit or intelligence.
 * Dump    = Throw away.
+* Muttered = Say something in a low or barely audible voice, especially in dissatisfaction or irritation.
