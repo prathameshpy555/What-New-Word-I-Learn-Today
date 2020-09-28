@@ -121,3 +121,5 @@
 * Witless = Lacking wit or intelligence.
 * Dump    = Throw away.
 * Muttered = Say something in a low or barely audible voice, especially in dissatisfaction or irritation.
+* Courtyard = an unroofed area that is completely or partially enclosed by walls or buildings.
+* Grocer    = A person who sells food and small household goods.
