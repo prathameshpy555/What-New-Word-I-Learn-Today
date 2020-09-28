@@ -119,3 +119,4 @@
 * Limps = Walk with difficulty, typically because of a damaged or stiff leg or foot.
 ### 28-Sep-2020
 * Witless = Lacking wit or intelligence.
+* Dump    = Throw away.
