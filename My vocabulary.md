@@ -117,3 +117,5 @@
 * Mill = A building equipped with machinery for grinding grain into flour.
 * Dowry = An amount of property or money brought by a bride to her husband on their marriage.
 * Limps = Walk with difficulty, typically because of a damaged or stiff leg or foot.
+### 28-Sep-2020
+* Witless = Lacking wit or intelligence.
