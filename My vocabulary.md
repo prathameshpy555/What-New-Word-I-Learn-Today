@@ -126,4 +126,6 @@
 ### 29-Sep-2020
 * Approach  = A way of doing or thinking about something.
 * Vagaries  = Unexpected change in a situation.
-* Agrarian  = Relating to cultivated land or the cultivation of land.
+* Agrarian  = Related to agriculture.
+* Stuffed   = Having the skin filled with material to restore the original shape and appearance.  = Relating to cultivated land or the cultivation of land.
+* Cuisine   = A style or quality of cooking.
