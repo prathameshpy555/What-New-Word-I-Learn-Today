@@ -126,3 +126,4 @@
 ### 29-Sep-2020
 * Approach  = A way of doing or thinking about something.
 * Vagaries  = Unexpected change in a situation.
+* Agrarian  = Relating to cultivated land or the cultivation of land.
