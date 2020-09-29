@@ -125,3 +125,4 @@
 * Grocer    = A person who sells food and small household goods.
 ### 29-Sep-2020
 * Approach  = A way of doing or thinking about something.
+* Vagaries  = Unexpected change in a situation.
