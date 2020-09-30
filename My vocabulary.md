@@ -131,3 +131,4 @@
 * Cuisine   = A style or quality of cooking.
 ### 30-Sep-2020
 * Off and on = Now and then.
+* Having a rough time = Having a lot of problems.
