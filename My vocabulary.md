@@ -135,3 +135,6 @@
 * Sleuthing = Investigating.
 * Dilated   = Enlarged.
 * Sidled back = Walked back quietly.
+### 1-Sep-2020
+* Bracing = Stimulation.
+* Stimulation = Encouragement.
