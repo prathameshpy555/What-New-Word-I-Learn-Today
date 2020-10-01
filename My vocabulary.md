@@ -138,3 +138,6 @@
 ### 1-Sep-2020
 * Bracing = Stimulation.
 * Stimulation = Encouragement.
+* Intimate = Personal or private.
+* Retribution = Punishment.
+* Panorama = View of a wide view.
