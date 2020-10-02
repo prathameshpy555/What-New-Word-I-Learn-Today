@@ -144,4 +144,6 @@
 ### 2-Oct-2020
 * Discern = Identitfy
 * Peppered = Coward with spot
+* Caress = A gentle loving touch
+* Novice = someone new to a job
 
