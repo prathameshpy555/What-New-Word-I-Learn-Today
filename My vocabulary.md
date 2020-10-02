@@ -143,3 +143,5 @@
 * Panorama = View of a wide view.
 ### 2-Oct-2020
 * Discern = Identitfy
+* Peppered = Coward with spot
+
