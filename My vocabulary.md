@@ -135,9 +135,11 @@
 * Sleuthing = Investigating.
 * Dilated   = Enlarged.
 * Sidled back = Walked back quietly.
-### 1-Sep-2020
+### 1-Oct-2020
 * Bracing = Stimulation.
 * Stimulation = Encouragement.
 * Intimate = Personal or private.
 * Retribution = Punishment.
 * Panorama = View of a wide view.
+### 2-Oct-2020
+* Discern = Identitfy
