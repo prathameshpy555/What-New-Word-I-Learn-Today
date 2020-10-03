@@ -151,3 +151,5 @@
 * Clerk = A person employed to keep records.
 * Summons = Request.
 * Seek out = Find out.
+* Fleeing = to run away.
+* Rejoiced = Enjoyed.
