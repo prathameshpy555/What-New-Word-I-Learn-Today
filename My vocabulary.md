@@ -149,3 +149,4 @@
 * Nonplus = puzzled
 ### 3-Sep-2020
 * Clerk = A person employed to keep records.
+* Summons = Request.
