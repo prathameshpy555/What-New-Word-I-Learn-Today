@@ -147,3 +147,5 @@
 * Caress = A gentle loving touch
 * Novice = someone new to a job
 * Nonplus = puzzled
+### 3-Sep-2020
+* Clerk = A person employed to keep records.
