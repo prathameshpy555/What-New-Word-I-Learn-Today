@@ -153,3 +153,5 @@
 * Seek out = Find out.
 * Fleeing = to run away.
 * Rejoiced = Enjoyed.
+### 4-Sep-2020
+* Bare = Uncovered.
