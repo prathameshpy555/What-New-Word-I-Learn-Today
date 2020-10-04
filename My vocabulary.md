@@ -155,3 +155,4 @@
 * Rejoiced = Enjoyed.
 ### 4-Sep-2020
 * Bare = Uncovered.
+* Hangouts = A place were a person visit's frequently.
