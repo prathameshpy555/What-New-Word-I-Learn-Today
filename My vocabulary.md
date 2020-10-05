@@ -162,3 +162,4 @@
 ### 5-Oct-2020
 * Earnestly = Sincerly.
 * Folks = People in general.
+* Swede = A large root vegetable.
