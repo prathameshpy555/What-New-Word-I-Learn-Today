@@ -161,3 +161,4 @@
 * Owes = Pay or repay.
 ### 5-Oct-2020
 * Earnestly = Sincerly.
+* Folks = People in general.
