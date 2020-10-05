@@ -147,15 +147,17 @@
 * Caress = A gentle loving touch
 * Novice = someone new to a job
 * Nonplus = puzzled
-### 3-Sep-2020
+### 3-Oct-2020
 * Clerk = A person employed to keep records.
 * Summons = Request.
 * Seek out = Find out.
 * Fleeing = to run away.
 * Rejoiced = Enjoyed.
-### 4-Sep-2020
+### 4-Oct-2020
 * Bare = Uncovered.
 * Hangouts = A place were a person visit's frequently.
 * Glad = Feeling happy.
 * Cent = Currency unit.
 * Owes = Pay or repay.
+### 5-Oct-2020
+* Earnestly = Sincerly.
