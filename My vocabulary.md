@@ -167,3 +167,4 @@
 * Simplicity = Understanding easyliy
 ### 6-Oct-2020
 * Swearing = Use of offensive language.
+* Hackman = The man driver of house.
