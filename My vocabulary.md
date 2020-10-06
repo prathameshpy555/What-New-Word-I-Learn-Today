@@ -168,3 +168,4 @@
 ### 6-Oct-2020
 * Swearing = Use of offensive language.
 * Hackman = The man driver of house.
+* Seized = Take hold of suddenly.
