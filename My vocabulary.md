@@ -165,3 +165,5 @@
 * Swede = A large root vegetable.
 * Philosophy = Nature of knowledge.
 * Simplicity = Understanding easyliy
+### 6-Oct-2020
+* Swearing = Use of offensive language.
