@@ -173,3 +173,4 @@
 * Peering = Look with difficulty or concentration.
 ### 7-Oct-2020
 * Ditches = Narrow channel.
+* Hinted = Giving hints.
