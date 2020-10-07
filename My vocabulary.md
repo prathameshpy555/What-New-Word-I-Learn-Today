@@ -171,3 +171,5 @@
 * Seized = Take hold of suddenly.
 * Barn = House of storing grain.
 * Peering = Look with difficulty or concentration.
+### 7-Oct-2020
+* Ditches = Narrow channel.
