@@ -174,3 +174,4 @@
 ### 7-Oct-2020
 * Ditches = Narrow channel.
 * Hinted = Giving hints.
+* Loafing = Avoiding.
