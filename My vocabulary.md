@@ -180,3 +180,4 @@
 ### 8-Oct-2020
 * Anteaters  = A mammal that feeds on ants and termites, with a long snout and sticky tongue.
 * Zulus  = A member of a South African people traditionally living mainly in KwaZulu-Natal province.
+* Illustrated  = Of a book, newspaper, etc. containing pictures or other graphical material.
