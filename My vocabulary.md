@@ -181,3 +181,5 @@
 * Anteaters  = A mammal that feeds on ants and termites, with a long snout and sticky tongue.
 * Zulus  = A member of a South African people traditionally living mainly in KwaZulu-Natal province.
 * Illustrated  = Of a book, newspaper, etc. containing pictures or other graphical material.
+* Significant  = Sufficiently great or important to be worthy of attention; noteworthy.
+* Switchboard = An installation for the manual control of telephone connections in an office, hotel, or other large building.
