@@ -177,3 +177,5 @@
 * Loafing = Avoiding.
 * Companion = A person who spend lot of time with whom one travel.
 * Agreeable sight = Pleasant sight.
+### 8-Oct-2020
+* Anteaters  = A mammal that feeds on ants and termites, with a long snout and sticky tongue.
