@@ -185,3 +185,4 @@
 * Switchboard = An installation for the manual control of telephone connections in an office, hotel, or other large building.
 ### 9-Oct-2020
 * Ruinous = Disastrous.
+* Vexation = Distressed.
