@@ -183,3 +183,5 @@
 * Illustrated  = Of a book, newspaper, etc. containing pictures or other graphical material.
 * Significant  = Sufficiently great or important to be worthy of attention; noteworthy.
 * Switchboard = An installation for the manual control of telephone connections in an office, hotel, or other large building.
+### 9-Oct-2020
+* Ruinous = Disastrous.
