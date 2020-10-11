@@ -198,3 +198,4 @@
 ### 11-Oct-2020
 * Distraught = Extremly worried.
 * Scrimmage = Rough Struggle.
+* Convalescing = Recovering from an illness.
