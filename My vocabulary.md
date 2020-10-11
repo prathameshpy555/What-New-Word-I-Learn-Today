@@ -197,3 +197,4 @@
 * Eccentric = Strange.
 ### 11-Oct-2020
 * Distraught = Extremly worried.
+* Scrimmage = Rough Struggle.
