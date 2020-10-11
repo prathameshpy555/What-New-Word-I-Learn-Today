@@ -199,3 +199,5 @@
 * Distraught = Extremly worried.
 * Scrimmage = Rough Struggle.
 * Convalescing = Recovering from an illness.
+* Appealing = Attractive.
+* Prosaic = Ordinary.
