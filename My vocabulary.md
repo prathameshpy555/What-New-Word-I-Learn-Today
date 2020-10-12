@@ -201,3 +201,5 @@
 * Convalescing = Recovering from an illness.
 * Appealing = Attractive.
 * Prosaic = Ordinary.
+### 12-Oct-2020
+* Contentment = Satisfaction.
