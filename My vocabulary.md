@@ -205,3 +205,5 @@
 * Contentment = Satisfaction.
 * Ruinous = Disastrous.
 * Vexation = Distressed.
+* Bare = Uncovered.
+* Loafing = Avoiding.
