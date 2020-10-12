@@ -204,3 +204,4 @@
 ### 12-Oct-2020
 * Contentment = Satisfaction.
 * Ruinous = Disastrous.
+* Vexation = Distressed.
