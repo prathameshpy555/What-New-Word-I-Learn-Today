@@ -209,3 +209,4 @@
 * Loafing = Avoiding.
 ### 13-Oct-2020
 * Perish = Die.
+* Suffice = Sufficient.
