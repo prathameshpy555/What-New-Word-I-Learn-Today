@@ -213,3 +213,5 @@
 * Eccentric = Strange.
 * Nostalgic = Feelings.
 * Nonplus = puzzled.
+### 14-Oct-2020
+* Owes = Repay.
