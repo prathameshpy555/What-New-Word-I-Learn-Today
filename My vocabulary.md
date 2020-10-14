@@ -217,3 +217,5 @@
 * Owes = Repay.
 * Swede = A large root vegetable.
 * Ditches = Narrow channel of water.
+* Incessantly = Continuously.
+* County = region.
