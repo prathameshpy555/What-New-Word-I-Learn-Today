@@ -215,3 +215,4 @@
 * Nonplus = puzzled.
 ### 14-Oct-2020
 * Owes = Repay.
+* Swede = A large root vegetable.
