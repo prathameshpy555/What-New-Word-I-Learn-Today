@@ -219,3 +219,9 @@
 * Ditches = Narrow channel of water.
 * Incessantly = Continuously.
 * County = region.
+### 15-Oct-2020
+* Matted = Fur.
+* Fear-laden = Feeling of distress.
+* Squatted = Sitting on knee.
+* Sobbing = To catch the breath.
+* Stammer = Involuntary stop.
