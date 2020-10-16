@@ -231,3 +231,6 @@
 * Passably = Just well enough.
 * Swearing = Use of offensive language.
 * Hackman = The mandriver of house.
+### 17-Oct-2020
+* Smidgen = A small amount of something.
+* Potent = Having great power.
