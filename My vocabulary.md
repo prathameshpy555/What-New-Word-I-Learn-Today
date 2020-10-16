@@ -234,3 +234,4 @@
 ### 17-Oct-2020
 * Smidgen = A small amount of something.
 * Potent = Having great power.
+* Amiable = Friendly and Pleasant.
