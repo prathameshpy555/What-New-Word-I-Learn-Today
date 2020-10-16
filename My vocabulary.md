@@ -228,3 +228,6 @@
 ### 16-Oct-2020
 * Prosaic = Ordinary.
 * Espionafe = Spying.
+* Passably = Just well enough.
+* Swearing = Use of offensive language.
+* Hackman = The mandriver of house.
