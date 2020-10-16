@@ -236,3 +236,4 @@
 * Potent = Having great power.
 * Amiable = Friendly and Pleasant.
 * Draped = Covered.
+* Jerky = Not smooth.
