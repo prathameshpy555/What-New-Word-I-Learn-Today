@@ -235,3 +235,4 @@
 * Smidgen = A small amount of something.
 * Potent = Having great power.
 * Amiable = Friendly and Pleasant.
+* Draped = Covered.
