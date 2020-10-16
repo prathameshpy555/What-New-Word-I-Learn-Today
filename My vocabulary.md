@@ -225,3 +225,6 @@
 * Squatted = Sitting on knee.
 * Sobbing = To catch the breath.
 * Stammer = Involuntary stop.
+### 16-Oct-2020
+* Prosaic = Ordinary.
+* Espionafe = Spying.
