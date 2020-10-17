@@ -240,3 +240,6 @@
 ### 17-Oct-2020
 * Footman = Male servant.
 * Lofty = Very High.
+* Scut = Short tail of an animal.
+* Elicit = To draw out.
+* Unapt = Not suitable.
