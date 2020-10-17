@@ -237,3 +237,6 @@
 * Amiable = Friendly and Pleasant.
 * Draped = Covered.
 * Jerky = Not smooth.
+### 17-Oct-2020
+* Footman = Male servant.
+* Lofty = Very High.
