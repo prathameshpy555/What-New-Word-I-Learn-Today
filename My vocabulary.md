@@ -237,9 +237,15 @@
 * Amiable = Friendly and Pleasant.
 * Draped = Covered.
 * Jerky = Not smooth.
-### 17-Oct-2020
+### 18-Oct-2020
 * Footman = Male servant.
 * Lofty = Very High.
 * Scut = Short tail of an animal.
 * Elicit = To draw out.
 * Unapt = Not suitable.
+### 19-Ocy-2020
+* Lavish = Very grand.
+* Blunder = A stupid or careless mistake.
+* Anxiety = A felling of worry.
+* Utter = complete.
+* Elusive = difficult to find.
