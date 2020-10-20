@@ -249,3 +249,9 @@
 * Anxiety = A felling of worry.
 * Utter = complete.
 * Elusive = difficult to find.
+###20-Oct-2020
+* Pursue = follow or chase.
+* Curious = Eager to know or learn something.
+* Chink = A narrow opening.
+* Passably = Just well ample.
+* Espionage = Spying.
