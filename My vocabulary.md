@@ -261,3 +261,9 @@
 * Adorn = Make a beautiful or attractive.
 * Chic = Fashionable.
 * Courteous = Polite.
+### 22-Oct-2020
+* Sound off = Express one's opinions in a loud or forceful manner.
+* Relevant = closely connected.
+* Pursue = follow or chase
+* Tuck = Push.
+* County = Region.
