@@ -267,3 +267,6 @@
 * Pursue = follow or chase
 * Tuck = Push.
 * County = Region.
+### 23-Oct-2020
+* Draped = Covered.
+* Precipitation = rain.
