@@ -270,3 +270,6 @@
 ### 23-Oct-2020
 * Draped = Covered.
 * Precipitation = rain.
+* Drizzle = Light rainfall.
+* Footman = Male servant.
+* Lofty = Very High.
