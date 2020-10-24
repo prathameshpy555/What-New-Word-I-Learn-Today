@@ -273,3 +273,9 @@
 * Drizzle = Light rainfall.
 * Footman = Male servant.
 * Lofty = Very High.
+### 24-Oct-2020
+* Prime = Best.
+* Damp = Wet.
+* Embarrassed = Ashamed.
+* Lavish = Very grand.
+* Pretended = Not real.
