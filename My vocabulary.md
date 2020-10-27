@@ -286,3 +286,8 @@
 * Appealing = Attractive.
 * Grunting = Making low guttural sounds.
 ### 26-Oct-2020
+* Listless = Lacking energy.
+* Scrimmage = Confused struggle.
+* lithe = Flexible.
+* Soothing = Calm effect.
+* Eccentric = Strange.
