@@ -279,7 +279,7 @@
 * Embarrassed = Ashamed.
 * Lavish = Very grand.
 * Pretended = Not real.
-### 24-Oct-2020
+### 25-Oct-2020
 * Carriages = Any of the separate sections of a train that carry passengers.
 * Heavily = To a great degree; in large amounts.
 * Tuck = Push.
