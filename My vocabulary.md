@@ -299,3 +299,4 @@
 * Piercingly = In a high pitch.
 ### 28-Oct-2020
 * Earnestly = Sincerly.
+* Folks = People in general.
