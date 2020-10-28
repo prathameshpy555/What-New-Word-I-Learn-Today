@@ -297,3 +297,5 @@
 * Tommy = England army.
 * Sloppy = carelessly dressed.
 * Piercingly = In a high pitch.
+### 28-Oct-2020
+* Earnestly = Sincerly.
