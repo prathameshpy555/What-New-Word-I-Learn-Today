@@ -303,3 +303,10 @@
 * Swede = A large root vegetable.
 * Philosophy = Nature of knowledge.
 * Simplicity = Understanding easyliy.
+Simplicity = Understanding easyliy
+### 29-Oct-2020
+* Swearing = Use of offensive language.
+* Hackman = The man driver of house.
+* Seized = Take hold of suddenly.
+* Barn = House of storing grain.
+* Peering = Look with difficulty or concentration.
