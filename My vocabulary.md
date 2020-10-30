@@ -313,3 +313,4 @@ Simplicity = Understanding easyliy
 ### 30-Oct-2020
 * Ruinous = Disastrous.
 * Vexation = Distressed.
+* Sou = A farmer French coin of low value.
