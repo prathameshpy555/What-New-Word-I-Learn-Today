@@ -315,3 +315,4 @@ Simplicity = Understanding easyliy
 * Vexation = Distressed.
 * Sou = A farmer French coin of low value.
 * Awry = Not in the position or shape; twisted.
+* Incessantly = Continuously.
