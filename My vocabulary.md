@@ -319,3 +319,4 @@ Simplicity = Understanding easyliy
 ### 31-Oct-2020
 * Footman = Male servant.
 * Lofty = Very High.
+* Scut = Short tail of an animal.
