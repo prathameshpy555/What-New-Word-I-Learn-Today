@@ -316,3 +316,6 @@ Simplicity = Understanding easyliy
 * Sou = A farmer French coin of low value.
 * Awry = Not in the position or shape; twisted.
 * Incessantly = Continuously.
+### 31-Oct-2020
+* Footman = Male servant.
+* Lofty = Very High.
