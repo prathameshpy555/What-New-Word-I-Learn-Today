@@ -320,3 +320,4 @@ Simplicity = Understanding easyliy
 * Footman = Male servant.
 * Lofty = Very High.
 * Scut = Short tail of an animal.
+* Elicit = To draw out.
