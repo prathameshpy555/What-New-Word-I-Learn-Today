@@ -321,3 +321,4 @@ Simplicity = Understanding easyliy
 * Lofty = Very High.
 * Scut = Short tail of an animal.
 * Elicit = To draw out.
+* Unapt = Not suitable.
