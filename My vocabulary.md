@@ -325,3 +325,4 @@ Simplicity = Understanding easyliy
 ### 01-Nov-2020
 * Bare = Uncovered.
 * Hangouts = A place were a person visit's frequently.
+* Glad = Feeling happy.
