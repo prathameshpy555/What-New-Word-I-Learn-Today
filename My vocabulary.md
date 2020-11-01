@@ -326,3 +326,4 @@ Simplicity = Understanding easyliy
 * Bare = Uncovered.
 * Hangouts = A place were a person visit's frequently.
 * Glad = Feeling happy.
+* Cent = Currency unit.
