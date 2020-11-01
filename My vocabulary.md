@@ -322,3 +322,6 @@ Simplicity = Understanding easyliy
 * Scut = Short tail of an animal.
 * Elicit = To draw out.
 * Unapt = Not suitable.
+### 01-Nov-2020
+* Bare = Uncovered.
+* Hangouts = A place were a person visit's frequently.
