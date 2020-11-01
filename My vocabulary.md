@@ -327,3 +327,4 @@ Simplicity = Understanding easyliy
 * Hangouts = A place were a person visit's frequently.
 * Glad = Feeling happy.
 * Cent = Currency unit.
+* Owes = Pay or repay.
