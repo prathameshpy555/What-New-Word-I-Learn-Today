@@ -328,3 +328,6 @@ Simplicity = Understanding easyliy
 * Glad = Feeling happy.
 * Cent = Currency unit.
 * Owes = Pay or repay.
+### 02-Nov-2020
+* Earnestly = Sincerly.
+* Folks = People in general.
