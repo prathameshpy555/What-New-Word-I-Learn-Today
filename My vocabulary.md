@@ -333,3 +333,4 @@ Simplicity = Understanding easyliy
 * Folks = People in general.
 * Swede = A large root vegetable.
 * Philosophy = Nature of knowledge.
+* Simplicity = Understanding easyliy.
