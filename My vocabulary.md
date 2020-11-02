@@ -332,3 +332,4 @@ Simplicity = Understanding easyliy
 * Earnestly = Sincerly.
 * Folks = People in general.
 * Swede = A large root vegetable.
+* Philosophy = Nature of knowledge.
