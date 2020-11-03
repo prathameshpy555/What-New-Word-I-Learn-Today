@@ -334,3 +334,9 @@ Simplicity = Understanding easyliy
 * Swede = A large root vegetable.
 * Philosophy = Nature of knowledge.
 * Simplicity = Understanding easyliy.
+### 03-Nov-2020
+* Off and on = Now and then.
+* Having a rough time = Having a lot of problems.
+* Sleuthing = Investigating.
+* Dilated = Enlarged.
+* Sidled back = Walked back quietly.
