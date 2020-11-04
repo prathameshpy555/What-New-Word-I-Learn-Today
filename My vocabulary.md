@@ -340,3 +340,9 @@ Simplicity = Understanding easyliy
 * Sleuthing = Investigating.
 * Dilated = Enlarged.
 * Sidled back = Walked back quietly.
+### 04-Nov-2020
+* Clerk = A person employed to keep records.
+* Summons = Request.
+* Seek out = Find out.
+* Fleeing = to run away.
+* Rejoiced = Enjoyed.
