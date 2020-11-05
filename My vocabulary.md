@@ -346,3 +346,9 @@ Simplicity = Understanding easyliy
 * Seek out = Find out.
 * Fleeing = to run away.
 * Rejoiced = Enjoyed.
+### 05-Nov-2020
+* Bewildered = Confused.
+* Eject = Remove.
+* Eccentric = Strange.
+* Curious = Eager to know or learn something.
+* Chink = A narrow opening.
