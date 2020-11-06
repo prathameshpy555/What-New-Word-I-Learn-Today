@@ -352,3 +352,9 @@ Simplicity = Understanding easyliy
 * Eccentric = Strange.
 * Curious = Eager to know or learn something.
 * Chink = A narrow opening.
+### 06-Nov-2020
+* Ruinous = Disastrous.
+* Vexation = Distressed.
+* Sou = A farmer French coin of low value.
+* Awry = Not in the position or shape; twisted.
+* Incessantly = Continuously.
