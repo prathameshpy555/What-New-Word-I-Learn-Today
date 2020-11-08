@@ -364,3 +364,9 @@ Simplicity = Understanding easyliy
 * Caress = A gentle loving touch
 * Novice = someone new to a job
 * Nonplus = puzzled
+### 08-Nov-2020
+* Bargainous = Costing less than expected.
+* Bromance = Close platonic male friendship.
+* Buzzkill = Person or thing that has a depressing effect.
+* Pimp = To make something more showy or impressive.
+* Rock = To do something in a confident, flamboyant way.
