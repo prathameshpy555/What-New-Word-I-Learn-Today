@@ -370,3 +370,15 @@ Simplicity = Understanding easyliy
 * Buzzkill = Person or thing that has a depressing effect.
 * Pimp = To make something more showy or impressive.
 * Rock = To do something in a confident, flamboyant way.
+### 09-Nov-2020
+* Utter = complete.
+* Elusive = difficult to find.
+* Niche = a shallow recess, especially one in a wall to display a statue or other ornament.
+* Relevant = closely connected or appropriate to what is being done or considered.
+* Pursue = follow or chase
+### 10-Nov-2020
+* Poker game = Cards game.
+* Fritzs = German armyy.
+* Tommy = England army.
+* Sloppy = carelessly dressed.
+* Piercingly = In a high pitch.
