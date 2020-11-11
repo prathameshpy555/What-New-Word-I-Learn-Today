@@ -382,3 +382,9 @@ Simplicity = Understanding easyliy
 * Tommy = England army.
 * Sloppy = carelessly dressed.
 * Piercingly = In a high pitch.
+### 11-Nov-2020
+* Carriages = Any of the separate sections of a train that carry passengers.
+* Heavily = To a great degree; in large amounts.
+* Tuck = Push.
+* Appealing = Attractive.
+* Grunting = Making low guttural sounds.
