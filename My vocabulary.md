@@ -303,7 +303,7 @@
 * Swede = A large root vegetable.
 * Philosophy = Nature of knowledge.
 * Simplicity = Understanding easyliy.
-Simplicity = Understanding easyliy
+* Simplicity = Understanding easyliy
 ### 29-Oct-2020
 * Swearing = Use of offensive language.
 * Hackman = The man driver of house.
@@ -388,3 +388,28 @@ Simplicity = Understanding easyliy
 * Tuck = Push.
 * Appealing = Attractive.
 * Grunting = Making low guttural sounds.
+### 12-Nov-2020
+* Ruinous = Disastrous.
+* Vexation = Distressed.
+* Sou = A farmer French coin of low value.
+* Awry = Not in the position or shape; twisted.
+* Incessantly = Continuously.
+### 13-Nov-2020
+* Earnestly = Sincerly.
+* Folks = People in general.
+* Swede = A large root vegetable.
+* Philosophy = Nature of knowledge.
+* Simplicity = Understanding easyliy.
+* Simplicity = Understanding easyliy
+### 14-Nov-2020
+* Swearing = Use of offensive language.
+* Hackman = The man driver of house.
+* Seized = Take hold of suddenly.
+* Barn = House of storing grain.
+* Peering = Look with difficulty or concentration.
+### 15-Nov-2020
+* Listless = Lacking energy.
+* Scrimmage = Confused struggle.
+* lithe = Flexible.
+* Soothing = Calm effect.
+* Eccentric = Strange.
