@@ -413,3 +413,15 @@
 * lithe = Flexible.
 * Soothing = Calm effect.
 * Eccentric = Strange.
+### 16-Nov-2020
+* Bargainous = Costing less than expected.
+* Bromance = Close platonic male friendship.
+* Buzzkill = Person or thing that has a depressing effect.
+* Pimp = To make something more showy or impressive.
+* Rock = To do something in a confident, flamboyant way.
+#### 17-Nov-2020
+* Discern = Identitfy
+* Peppered = Coward with spot
+* Caress = A gentle loving touch
+* Novice = someone new to a job
+* Nonplus = puzzled
