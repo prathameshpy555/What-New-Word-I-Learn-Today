@@ -419,9 +419,15 @@
 * Buzzkill = Person or thing that has a depressing effect.
 * Pimp = To make something more showy or impressive.
 * Rock = To do something in a confident, flamboyant way.
-#### 17-Nov-2020
+### 17-Nov-2020
 * Discern = Identitfy
 * Peppered = Coward with spot
 * Caress = A gentle loving touch
 * Novice = someone new to a job
 * Nonplus = puzzled
+### 18-Nov-2020
+* Utter = complete.
+* Elusive = difficult to find.
+* Niche = a shallow recess, especially one in a wall to display a statue or other ornament.
+* Relevant = closely connected or appropriate to what is being done or considered.
+* Pursue = follow or chase
