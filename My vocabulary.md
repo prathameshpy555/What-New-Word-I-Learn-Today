@@ -431,3 +431,9 @@
 * Niche = a shallow recess, especially one in a wall to display a statue or other ornament.
 * Relevant = closely connected or appropriate to what is being done or considered.
 * Pursue = follow or chase
+### 19-Nov-2020
+* Carriages = Any of the separate sections of a train that carry passengers.
+* Heavily = To a great degree; in large amounts.
+* Tuck = Push.
+* Appealing = Attractive.
+* Grunting = Making low guttural sounds.
