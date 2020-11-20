@@ -442,3 +442,4 @@
 * Having a rough time = Having a lot of problems.
 * Sleuthing = Investigating.
 * Dilated = Enlarged.
+* Sidled back = Walked back quietly.
