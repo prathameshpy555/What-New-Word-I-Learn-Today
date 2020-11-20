@@ -439,3 +439,4 @@
 * Grunting = Making low guttural sounds.
 ### 20-Nov-2020
 * Off and on = Now and then.
+* Having a rough time = Having a lot of problems.
