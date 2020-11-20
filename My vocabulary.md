@@ -441,3 +441,4 @@
 * Off and on = Now and then.
 * Having a rough time = Having a lot of problems.
 * Sleuthing = Investigating.
+* Dilated = Enlarged.
