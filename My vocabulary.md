@@ -437,3 +437,5 @@
 * Tuck = Push.
 * Appealing = Attractive.
 * Grunting = Making low guttural sounds.
+### 20-Nov-2020
+* Off and on = Now and then.
