@@ -443,3 +443,21 @@
 * Sleuthing = Investigating.
 * Dilated = Enlarged.
 * Sidled back = Walked back quietly.
+### 21-Nov-2020
+* Ditches = Narrow channel.
+* Hinted = Giving hints.
+* Loafing = Avoiding.
+* Companion = A person who spend lot of time with whom one travel.
+* Agreeable sight = Pleasant sight.
+### 22-Nov-2020
+* Swearing = Use of offensive language.
+* Hackman = The man driver of house.
+* Seized = Take hold of suddenly.
+* Barn = House of storing grain.
+* Peering = Look with difficulty or concentration.
+### 23-Nov-2020
+* Discern = Identitfy
+* Peppered = Coward with spot
+* Caress = A gentle loving touch
+* Novice = someone new to a job
+* Nonplus = puzzled
