@@ -461,3 +461,11 @@
 * Caress = A gentle loving touch
 * Novice = someone new to a job
 * Nonplus = puzzled
+### 24-Nov-2020
+* Airball = Completely miss the basket, rim, and backboard with a shot.
+* Automagically = In a way that seems magical, especially by computer.
+* Awesomesauce = Extremely good; excellent.
+* Barista = A person whose job involves preparing and serving different types of coffee.
+* Bitcoin = An online payment system that does not require an intermediary
+
+https://www.examword.com/day/100-new-word-definition-sentence
