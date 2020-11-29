@@ -485,3 +485,16 @@
 * blog = a regularly updated website or web page, typically one run by an individual or small group
 * bokeh = visual quality of the out-of-focus areas of a photographic image, especially as rendered by a particular lens.
 * bongga = extravagant, flamboyant, impressive, stylish, or excellent
+### 28-Nov-2020
+* Discern = Identitfy
+* Peppered = Coward with spot
+* Caress = A gentle loving touch
+* Novice = someone new to a job
+* Nonplus = puzzled
+### 29-Nov-2020
+* Off and on = Now and then.
+* Having a rough time = Having a lot of problems.
+* Sleuthing = Investigating.
+* Dilated = Enlarged.
+* Sidled back = Walked back quietly.
+
