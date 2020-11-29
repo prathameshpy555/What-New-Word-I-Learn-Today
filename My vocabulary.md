@@ -467,5 +467,21 @@
 * Awesomesauce = Extremely good; excellent.
 * Barista = A person whose job involves preparing and serving different types of coffee.
 * Bitcoin = An online payment system that does not require an intermediary
-
-https://www.examword.com/day/100-new-word-definition-sentence
+### 25-Nov-2020
+* chillax = calm down and relax
+* clickbait = online content to attract more visitors to a particular website
+* conlang = an invented language intended for human communication
+* cheeseball = lacking taste, style, or originality
+* buzzkill = person or thing that has a depressing effect
+### 26-Nov-2020
+* butt-dial = inadvertently call on a mobile phone in one's rear pants pocket, as a result of pressure being accidentally applied to buttons on the phone
+* butthurt = inappropriately strong negative emotional response from a perceived personal insult, strong feelings of shame
+* Brexit = a term for the potential or hypothetical departure of the United Kingdom from the European Union
+* bromance = a close but non-sexual relationship between two men.
+* buko = coconut, coconut water; a person who is less than 5ft tall and really angry
+### 27-Nov-2020
+* bitcoin = an online payment system that does not require an intermediary
+* bling = jewellery, decoration, or clothing that attracts attention because looks expensive
+* blog = a regularly updated website or web page, typically one run by an individual or small group
+* bokeh = visual quality of the out-of-focus areas of a photographic image, especially as rendered by a particular lens.
+* bongga = extravagant, flamboyant, impressive, stylish, or excellent
