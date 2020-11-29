@@ -498,3 +498,4 @@
 * Dilated = Enlarged.
 * Sidled back = Walked back quietly.
 
+https://www.examword.com/day/100-new-word-definition-sentence
