@@ -497,5 +497,9 @@
 * Sleuthing = Investigating.
 * Dilated = Enlarged.
 * Sidled back = Walked back quietly.
-
-https://www.examword.com/day/100-new-word-definition-sentence
+### 30-Nov-2020
+* accidial = dial someone's number on phone accidentally
+* bedunged = has been soiled with or covered in dung; very old or old-fashioned.
+* binge-watch = watch multiple episodes of a television program in rapid succession
+* Brexit = a term for the potential or hypothetical departure of the United Kingdom from the European Union
+* conlang = an invented language intended for human communication
