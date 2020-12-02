@@ -509,3 +509,9 @@
 * Astute = Having or showing an ability to accurately assess situations.
 * Potent = Having great power, influence, or effect.
 * Firm = Having a solid, almost unyielding surface orstructure.
+### 02-Dec-2020
+* Sobbing = To catch the breath audibly in a spasmodic contraction of the throat.
+* Soothing = Having a gently calming effect./Reducing pain or discomfort.
+* Relieved = No longer feeling distressed or anxious; reassured.
+* Patted = Touch quickly and gently with the flat of the hand.
+* Nodded = Let one's head fall forward when drowsy or asleep.
