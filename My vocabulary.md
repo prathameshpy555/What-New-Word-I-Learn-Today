@@ -515,3 +515,9 @@
 * Relieved = No longer feeling distressed or anxious; reassured.
 * Patted = Touch quickly and gently with the flat of the hand.
 * Nodded = Let one's head fall forward when drowsy or asleep.
+### 03-Dec-2020
+* unabashed - not embarrassed 
+* dilatory - wasting time 
+* alacrity - eagerness
+* callous - disregard for others 
+* cognizant - awareness or realisation 
