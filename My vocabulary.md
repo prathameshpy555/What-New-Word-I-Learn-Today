@@ -521,3 +521,9 @@
 * alacrity - eagerness
 * callous - disregard for others 
 * cognizant - awareness or realisation 
+### 04-Dec_2020
+* Nostalgic = Feelings.
+* Eliminate = To remove.
+* Euthenics = The study of the control of environment.
+* Elicit = To draw out.
+* Queer = Strange.
