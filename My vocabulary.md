@@ -527,9 +527,15 @@
 * Euthenics = The study of the control of environment.
 * Elicit = To draw out.
 * Queer = Strange.
-### 05-Dec-Dec
+### 05-Dec-2020
 * Fragile = Easily broken or damaged.
 * Null = Of no effect.
 * Glad = Joyful.
 * Jerky = Not smooth.
 * Unapt = Not suitable.
+### 06-Dec-2020
+* rime = Best.
+* Damp = Wet.
+* Embarrassed = Ashamed.
+* Lavish = Very grand.
+* Pretended = Not real.
