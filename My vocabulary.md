@@ -545,3 +545,9 @@
 * Incessantly = Continuously.
 * Ruinous = Disastrous.
 * Squatted = Sat on their heels.
+### 08-Dec-2020
+* ambigue = An ambiguous statement or expression.
+* Aperol = A proprietary name for  an orange-coloured Italian aperitif flavoured with gentian, rhubarb, and a variety of herbs and roots.
+* awedde = Overcome with anger, madness, or distress; insane, mentally disturbed.
+* awfy = Terrible, dreadful; remarkable or notable.
+* bigsie = Having an exaggerated sense of one’s own importance; arrogant, pretentious, conceited.
