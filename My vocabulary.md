@@ -9,6 +9,7 @@
 * Amiable     = Friendly and Pleasant.
 * Draped      = Covered.
 * Contentment = Satisfaction.
+* Nostalgic = Feelings.
 ### 10-Sep-2020
 * Precipitation = rain.
 * Drizzle       = Light rainfall.
@@ -551,3 +552,9 @@
 * awedde = Overcome with anger, madness, or distress; insane, mentally disturbed.
 * awfy = Terrible, dreadful; remarkable or notable.
 * bigsie = Having an exaggerated sense of one’s own importance; arrogant, pretentious, conceited.
+### 09-Dec-2020
+* Prime       = Best.
+* Damp        = Wet.
+* Embarrassed = Ashamed.
+* Lavish      = Very grand.
+* Pretended   = Not real.
