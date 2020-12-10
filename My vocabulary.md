@@ -558,3 +558,9 @@
 * Embarrassed = Ashamed.
 * Lavish      = Very grand.
 * Pretended   = Not real.
+### 10-Dec-2020
+Ruinous = Disastrous.
+Vexation = Distressed.
+Sou = A farmer French coin of low value.
+Awry = Not in the position or shape; twisted.
+Incessantly = Continuously.
