@@ -559,8 +559,14 @@
 * Lavish      = Very grand.
 * Pretended   = Not real.
 ### 10-Dec-2020
-Ruinous = Disastrous.
-Vexation = Distressed.
-Sou = A farmer French coin of low value.
-Awry = Not in the position or shape; twisted.
-Incessantly = Continuously.
+* Ruinous = Disastrous.
+* Vexation = Distressed.
+* Sou = A farmer French coin of low value.
+* Awry = Not in the position or shape; twisted.
+* Incessantly = Continuously.
+### 11-Dec-2020
+* Ditches = Narrow channel.
+* Hinted = Giving hints.
+* Loafing = Avoiding.
+* Companion = A person who spend lot of time with whom one travel.
+* Agreeable sight = Pleasant sight.
