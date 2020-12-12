@@ -570,3 +570,9 @@
 * Loafing = Avoiding.
 * Companion = A person who spend lot of time with whom one travel.
 * Agreeable sight = Pleasant sight.
+### 12-Dec-2020
+* Bare = Uncovered.
+* Hangouts = A place were a person visit's frequently.
+* Glad = Feeling happy.
+* Cent = Currency unit.
+* Owes = Pay or repay.
