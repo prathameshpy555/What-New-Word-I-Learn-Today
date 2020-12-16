@@ -594,3 +594,9 @@
 * Tuck = Push.
 * Appealing = Attractive.
 * Grunting = Making low guttural sounds.
+### 16-Dec-2020
+* Taken their toll on:- damaged.
+* Stuck fast:- shut tight.
+* Scruples: feelings that makes you hesitate to do something wrong.
+* Standing to:- taking up positions.
+* Trenches:- long deep ditches in the ground where soldiers hide from the enemy.
