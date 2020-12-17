@@ -600,3 +600,9 @@
 * Scruples: feelings that makes you hesitate to do something wrong.
 * Standing to:- taking up positions.
 * Trenches:- long deep ditches in the ground where soldiers hide from the enemy.
+### 17-Dec-2020
+* Bracing:- stimulating.
+* Going nuts:- going mad.
+* Geting into people's hair:- interfering.
+* Sleuthing:- investing.
+* Carry on:- continue.
