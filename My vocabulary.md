@@ -606,3 +606,9 @@
 * Geting into people's hair:- interfering.
 * Sleuthing:- investing.
 * Carry on:- continue.
+### 18-Dec-2020
+* Sou = A former French coin of low value.
+* Awary = Twisted.
+* Incessantly = Continuously.
+* Ruinous = Disastrous.
+* Squatted = Sat on their heels.
