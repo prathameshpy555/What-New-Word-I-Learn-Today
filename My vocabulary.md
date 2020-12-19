@@ -612,3 +612,9 @@
 * Incessantly = Continuously.
 * Ruinous = Disastrous.
 * Squatted = Sat on their heels.
+### 19-Dec-2020
+* Meek:- quite
+* Utter Disbelief:- complete surprise.
+* Head reeled:- He was shoked and confused.
+* Losing his mind:- becoming mad.
+* Intimate:- very personal and private.
