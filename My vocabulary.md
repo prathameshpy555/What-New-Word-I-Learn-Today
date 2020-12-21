@@ -624,3 +624,9 @@
 * Head reeled:- He was shoked and confused.
 * Losing his mind:- becoming mad.
 * Intimate:- very personal and private.
+### 21-Dec-2020
+* Fragile = Easily broken or damaged.
+* Null    = Of no effect.
+* Glad    = Joyful.
+* Jerky   = Not smooth.
+* Unapt   = Not suitable.
