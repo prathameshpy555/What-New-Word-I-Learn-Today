@@ -636,3 +636,9 @@
 * Sleuthing = Investigating.
 * Dilated = Enlarged.
 * Sidled back = Walked back quietly.
+### 23-Dec-2020
+* Smidgen = A small amount of something.
+* Shred   = A strip of material,such as paper, cloth, or food.
+* Astute  = Having or showing an ability to accurately assess situations.
+* Potent  = Having great power, influence, or effect.
+* Firm    = Having a solid, almost unyielding surface orstructure.
