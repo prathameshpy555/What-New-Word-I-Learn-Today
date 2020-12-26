@@ -654,3 +654,9 @@
 * Feline:- or relating to.
 * Depravity:- moral corruption.
 * Idle chat:- unnecessary routine conservasition.
+### 26-Dec-2020
+* Apprentice  = Beginner.
+* Amiable     = Friendly and Pleasant.
+* Draped      = Covered.
+* Contentment = Satisfaction.
+* Nostalgic = Feelings.
