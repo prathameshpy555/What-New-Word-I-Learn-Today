@@ -660,3 +660,10 @@
 * Draped      = Covered.
 * Contentment = Satisfaction.
 * Nostalgic = Feelings.
+### 27-Dec-2020
+* Buzzard:- a large bird like the vulture that eats the flesh of deatd animals.
+* Adjacent:- nearby.
+* Parted:- moved or pushed aside.
+* Quivering:- shaking slightly.
+* Delirious:- (here) extremely excited.
+* Colvulsion:- shiver.
