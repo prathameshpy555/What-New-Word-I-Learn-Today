@@ -673,3 +673,9 @@
 * Eccentric = Strange.
 * Nostalgic = Feelings.
 * Nonplus = puzzled.
+### 29-Dec-2020
+* Spotted it:- found.
+* Scorch marks:- burn marks.
+* Woing for:- was selling for.
+* Restore:- repair.
+* Venner:- A thin layer of plastic or decorative.
