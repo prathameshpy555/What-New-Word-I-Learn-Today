@@ -698,8 +698,14 @@
 * Restore= repair.
 * Venner= A thin layer of plastic or decorative.
 ### 02-Dec-2020
-*Archipelago= a group of many islands and the surrounding area.
-*Tremor= the earth's shakes during an earthquick.
-*Chaos= complete disorder or confusion.
-*Relief helicoptors= helicoptors bringing help to people.
-*Reced= move back from where it was.
+* Archipelago = a group of many islands and the surrounding area.
+* Tremor = the earth's shakes during an earthquick.
+* Chaos = complete disorder or confusion.
+* Relief helicoptors = helicoptors bringing help to people.
+* Reced = move back from where it was.
+### 03-Dec-2020
+* Self-possessed =  calm and canfident; sure of him self
+* Endeavoured =  tried
+* Flatter =  make (her) happy
+* Suggest masculine = habitation
+* moor =  grassland
