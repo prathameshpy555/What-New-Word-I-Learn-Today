@@ -709,3 +709,9 @@
 * Flatter =  make (her) happy
 * Suggest masculine = habitation
 * moor =  grassland
+### 04-Dec-2020
+* Oblivious:- forgetful.
+* Astronomer:- schlor of the science of the sun, moon, stars, planets, etc.
+* Eccentric:- Unusual/unlike the orbitsof other planets.
+* Optimistic:- hopeful; excepting the best
+* Smudges:- spots/marks
