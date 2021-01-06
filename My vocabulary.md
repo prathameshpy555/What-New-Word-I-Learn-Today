@@ -710,8 +710,20 @@
 * Suggest masculine = habitation
 * moor =  grassland
 ### 04-Dec-2020
-* Oblivious:- forgetful.
-* Astronomer:- schlor of the science of the sun, moon, stars, planets, etc.
-* Eccentric:- Unusual/unlike the orbitsof other planets.
-* Optimistic:- hopeful; excepting the best
-* Smudges:- spots/marks
+* Oblivious= forgetful.
+* Astronomer= schlor of the science of the sun, moon, stars, planets, etc.
+* Eccentric= Unusual/unlike the orbitsof other planets.
+* Optimistic= hopeful; excepting the best
+* Smudges= spots/marks
+### 05-Dec-2021
+* Immense= huge
+* Enormous= very big.
+* Gigantic= immense.
+* Clustering= gathering.
+* Being= kind, gentle.
+### 06-Dec-2020
+* Incandescence= inner gloe or light.
+* Enormous= very big
+* Stirred= move.
+* Clustering= gathering.
+* Fathomless= So deep that depth can't be measured.
