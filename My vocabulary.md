@@ -691,25 +691,25 @@
 * Stirred= move.
 * Clustering= gathering.
 * Fathomless= So deep that depth can't be measured.
-### 01-Jan-2020
+### 01-Jan-2021
 * Spotted it= found.
 * Scorch marks= burn marks.
 * Woing for= was selling for.
 * Restore= repair.
 * Venner= A thin layer of plastic or decorative.
-### 02-Dec-2020
+### 02-Dec-2021
 * Archipelago = a group of many islands and the surrounding area.
 * Tremor = the earth's shakes during an earthquick.
 * Chaos = complete disorder or confusion.
 * Relief helicoptors = helicoptors bringing help to people.
 * Reced = move back from where it was.
-### 03-Dec-2020
+### 03-Dec-2021
 * Self-possessed =  calm and canfident; sure of him self
 * Endeavoured =  tried
 * Flatter =  make (her) happy
 * Suggest masculine = habitation
 * moor =  grassland
-### 04-Dec-2020
+### 04-Dec-2021
 * Oblivious= forgetful.
 * Astronomer= schlor of the science of the sun, moon, stars, planets, etc.
 * Eccentric= Unusual/unlike the orbitsof other planets.
@@ -721,9 +721,15 @@
 * Gigantic= immense.
 * Clustering= gathering.
 * Being= kind, gentle.
-### 06-Dec-2020
+### 06-Dec-2021
 * Incandescence= inner gloe or light.
 * Enormous= very big
 * Stirred= move.
 * Clustering= gathering.
 * Fathomless= So deep that depth can't be measured.
+### 07-Dec-2021
+* Geefully:- Very happy.
+* Lyonnesse:- (in arthurian legend) the mythical birthplace of Sir Tristram, in England, belived to have been submerged by the sea; here an imaginary place.
+* Rime:- frost.
+* The spray:- leaves and branches of trees; foliage.
+* Durst:- (poetic word for) dared.
