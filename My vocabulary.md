@@ -728,8 +728,14 @@
 * Clustering= gathering.
 * Fathomless= So deep that depth can't be measured.
 ### 07-Dec-2021
-* Geefully:- Very happy.
-* Lyonnesse:- (in arthurian legend) the mythical birthplace of Sir Tristram, in England, belived to have been submerged by the sea; here an imaginary place.
-* Rime:- frost.
-* The spray:- leaves and branches of trees; foliage.
-* Durst:- (poetic word for) dared.
+* Geefully= Very happy.
+* Lyonnesse= (in arthurian legend) the mythical birthplace of Sir Tristram, in England, belived to have been submerged by the sea; here an imaginary place.
+* Rime= frost.
+* The spray= leaves and branches of trees; foliage.
+* Durst= (poetic word for) dared.
+### 08-Dec-2020
+* Didn't beat about the bush= came straight to the point.
+* Off and on= now and then.
+* Throw your mind back= Think your mind back.
+* Must see about consulting= may have to consult.
+* Tranquilliser= a medicen to reduce stress and anxient.
