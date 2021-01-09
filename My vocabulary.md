@@ -738,4 +738,10 @@
 * Off and on= now and then.
 * Throw your mind back= Think your mind back.
 * Must see about consulting= may have to consult.
-* Tranquilliser= a medicen to reduce stress and anxient.
+* Tranquilliser = a medicen to reduce stress and anxient.
+### 09-Dec-2020
+* Fritz = a name for a german soldiers.
+* That would be that = that was the end of the matter.
+* Cello = a muisical instrunment like large violin.
+* Marzipan = a sweet covering on a cake made from sugar, eggs and almonds.
+* Dugout = a shelte for sholdiers made by digging a whole in the ground and covering it.
