@@ -697,51 +697,57 @@
 * Woing for= was selling for.
 * Restore= repair.
 * Venner= A thin layer of plastic or decorative.
-### 02-Dec-2021
+### 02-Jan-2021
 * Archipelago = a group of many islands and the surrounding area.
 * Tremor = the earth's shakes during an earthquick.
 * Chaos = complete disorder or confusion.
 * Relief helicoptors = helicoptors bringing help to people.
 * Reced = move back from where it was.
-### 03-Dec-2021
+### 03-Jan-2021
 * Self-possessed =  calm and canfident; sure of him self
 * Endeavoured =  tried
 * Flatter =  make (her) happy
 * Suggest masculine = habitation
 * moor =  grassland
-### 04-Dec-2021
+### 04-Jan-2021
 * Oblivious= forgetful.
 * Astronomer= schlor of the science of the sun, moon, stars, planets, etc.
 * Eccentric= Unusual/unlike the orbitsof other planets.
 * Optimistic= hopeful; excepting the best
 * Smudges= spots/marks
-### 05-Dec-2021
+### 05-Jan-2021
 * Immense= huge
 * Enormous= very big.
 * Gigantic= immense.
 * Clustering= gathering.
 * Being= kind, gentle.
-### 06-Dec-2021
+### 06-Jan-2021
 * Incandescence= inner gloe or light.
 * Enormous= very big
 * Stirred= move.
 * Clustering= gathering.
 * Fathomless= So deep that depth can't be measured.
-### 07-Dec-2021
+### 07-Jan-2021
 * Geefully= Very happy.
 * Lyonnesse= (in arthurian legend) the mythical birthplace of Sir Tristram, in England, belived to have been submerged by the sea; here an imaginary place.
 * Rime= frost.
 * The spray= leaves and branches of trees; foliage.
 * Durst= (poetic word for) dared.
-### 08-Dec-2020
+### 08-Jan-2021
 * Didn't beat about the bush= came straight to the point.
 * Off and on= now and then.
 * Throw your mind back= Think your mind back.
 * Must see about consulting= may have to consult.
 * Tranquilliser = a medicen to reduce stress and anxient.
-### 09-Dec-2020
+### 09-Jan-2021
 * Fritz = a name for a german soldiers.
 * That would be that = that was the end of the matter.
 * Cello = a muisical instrunment like large violin.
 * Marzipan = a sweet covering on a cake made from sugar, eggs and almonds.
 * Dugout = a shelte for sholdiers made by digging a whole in the ground and covering it.
+### 10-Jan-2021
+* Trickle:- weak or thin flow of water
+* Parched:- hot and dry
+* Interminably:- endless
+* Quench:- cool
+* Didn't beat about the bush= came straight to the point.
