@@ -751,9 +751,15 @@
 * Interminably:- endless
 * Quench:- cool
 * Didn't beat about the bush= came straight to the point.
-### 11-Dec-2020
+### 11-Jan-2021
 * Incandescence:- inner gloe or light.
 * Enormous:- very big
 * Stirred:- move.
 * Clustering:- gathering.
 * Fathomless:- So deep that depth can't be measured.
+### 12-Jan-2021
+* Immense:- huge
+* Enormous:- very big.
+* Gigantic:- immense.
+* Clustering:- gathering.
+* Being:- kind, gentle.
