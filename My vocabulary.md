@@ -746,20 +746,26 @@
 * Marzipan = a sweet covering on a cake made from sugar, eggs and almonds.
 * Dugout = a shelte for sholdiers made by digging a whole in the ground and covering it.
 ### 10-Jan-2021
-* Trickle:- weak or thin flow of water
-* Parched:- hot and dry
-* Interminably:- endless
-* Quench:- cool
-* Didn't beat about the bush= came straight to the point.
+* Trickle = weak or thin flow of water
+* Parched = hot and dry
+* Interminably = endless
+* Quench = cool
+* Didn't beat about the bush = came straight to the point.
 ### 11-Jan-2021
-* Incandescence:- inner gloe or light.
-* Enormous:- very big
-* Stirred:- move.
-* Clustering:- gathering.
-* Fathomless:- So deep that depth can't be measured.
+* Incandescence = inner gloe or light.
+* Enormous = very big
+* Stirred = move.
+* Clustering = gathering.
+* Fathomless = So deep that depth can't be measured.
 ### 12-Jan-2021
-* Immense:- huge
-* Enormous:- very big.
-* Gigantic:- immense.
-* Clustering:- gathering.
-* Being:- kind, gentle.
+* Immense = huge
+* Enormous = very big.
+* Gigantic = immense.
+* Clustering = gathering.
+* Being = kind, gentle.
+### 13-Jan-2021
+* Defied = frustrated;resisted.
+* Mystical = spiritual.
+* Firm in = make your self firm.
+* Belays = fixes a rope.
+* Ascent = climb.
