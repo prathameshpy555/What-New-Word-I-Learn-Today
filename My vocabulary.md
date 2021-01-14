@@ -769,3 +769,9 @@
 * Firm in = make your self firm.
 * Belays = fixes a rope.
 * Ascent = climb.
+### 14-Jan-2021
+* Immense = huge
+* Enormous = very big.
+* Gigantic = immense.
+* Clustering = gathering.
+* Being = kind, gentle.
