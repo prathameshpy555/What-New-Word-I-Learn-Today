@@ -781,3 +781,9 @@
 * Didn't beat about the bush = came straight to the point.
 * Blankets = covers.
 * Inhabinants = people living in the valley; dwellers.
+### 16-Jan-2021
+* Hoist:- pull up higher
+* Light-headed:- unable to think clearly.
+* Romp:- play
+* Alarm:- frighten.
+* Balked:- (also baulked) was unwilling (to do something)
