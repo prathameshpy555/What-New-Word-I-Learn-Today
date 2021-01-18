@@ -793,3 +793,9 @@
 * Astrophysicist = scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
 * Buoyant = intensely active and vibrant.
 * Torso = upper of the body.
+### 18-Jan-2021
+* Balked = (also baulked) was unwilling (to do something).
+* Worsted sockes = woolen socks.
+* Astrophysicist = scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
+* Buoyant = intensely active and vibrant.
+* Torso = upper of the body.
