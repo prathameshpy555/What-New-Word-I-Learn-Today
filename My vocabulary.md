@@ -799,3 +799,9 @@
 * Astrophysicist = scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
 * Buoyant = intensely active and vibrant.
 * Torso = upper of the body.
+### 19-Jan-2021
+* hoist:- pull up higher
+* light-headed:- unable to think clearly.
+* romp:- play
+* alarm:- frighten.
+* balked:- (also baulked) was unwilling (to do something)
