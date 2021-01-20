@@ -800,8 +800,14 @@
 * Buoyant = intensely active and vibrant.
 * Torso = upper of the body.
 ### 19-Jan-2021
-* hoist:- pull up higher
-* light-headed:- unable to think clearly.
-* romp:- play
-* alarm:- frighten.
-* balked:- (also baulked) was unwilling (to do something)
+* hoist = pull up higher
+* light-headed = unable to think clearly.
+* romp = play
+* alarm = frighten.
+* balked = (also baulked) was unwilling (to do something)
+### 20-Jan-2021
+* Grimace = twistead expression (on the face) due to pain.
+* Glumy = sadly/gloomily.
+* Making his head spin = givinh him a headache/making him feel dizzy.
+* Chutney = (here) run over/killed; crushed and ground into chutney.
+* Paniked = wasd very worriedd.
