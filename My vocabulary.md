@@ -811,10 +811,33 @@
 * Making his head spin = givinh him a headache/making him feel dizzy.
 * Chutney = (here) run over/killed; crushed and ground into chutney.
 * Paniked = wasd very worriedd.
-### 21-Jan-2020
+### 21-Jan-2021
 * Scarlet minivet:- brightf red bird like a cuckoo.
 * Drongo:- a song-bird with a stout bill.
 * Drumming:- falling noisily.
 * Disconsolately:- unhappily.
 * ravine:- valley.
-### 22-Jan-2020
+### 22-Jan-2021
+* Conscientious: careful and correct.
+* Head was in whirl:- confused and anable to think clearly.
+* Gather his wits together:- make an effort to become calm and think clearly.
+* Having a rough time:- having a lot of problems.
+* Turning up like a bad penny:- appearing at a place where one is not welcome.
+### 23-Jan-2021
+* Traumatised:- greatly shocked and distressed.
+* Resort:- a place where people go on holidays.
+* Triggered:- caused.
+* Hysterical:- When you are hysterical, you shout laugh or cry in a wild excited way, without any control over yourself.
+* Refuge:- Shelter or protection from danger.
+### 24-Jan-2021
+* Balked:- (also baulked) was unwilling (to do something).
+* Worsted sockes:- woolen socks.
+* Astrophysicist:- scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
+* Buoyant:- intensely active and vibrant.
+* Torso:- upper of the body.
+## 25-Jan-2021
+* hoist:- pull up higher
+* light-headed:- unable to think clearly.
+* romp:- play
+* alarm:- frighten.
+* balked:- (also baulked) was unwilling (to do something)
