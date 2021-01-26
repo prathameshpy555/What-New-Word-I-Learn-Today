@@ -811,3 +811,9 @@
 * Making his head spin = givinh him a headache/making him feel dizzy.
 * Chutney = (here) run over/killed; crushed and ground into chutney.
 * Paniked = wasd very worriedd.
+### 21-Jan-2020
+* Scarlet minivet:- brightf red bird like a cuckoo.
+* Drongo:- a song-bird with a stout bill.
+* Drumming:- falling noisily.
+* Disconsolately:- unhappily.
+* ravine:- valley.
