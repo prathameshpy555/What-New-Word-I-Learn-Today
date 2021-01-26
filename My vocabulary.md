@@ -841,3 +841,9 @@
 * romp:- play
 * alarm:- frighten.
 * balked:- (also baulked) was unwilling (to do something)
+### 26-Jan-2021
+* Prophecy:- ststement that tells what will happen in the future.
+* Pensive:- thoughtful.
+* Stirred:- move.
+* Inhabinants:- people living in the valley; dwellers.
+* Labour:- work.
