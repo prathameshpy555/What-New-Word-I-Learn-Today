@@ -847,3 +847,15 @@
 * Stirred:- move.
 * Inhabinants:- people living in the valley; dwellers.
 * Labour:- work.
+### 27-Jan-2021
+* Bracing:- stimulating.
+* Going nuts:- going mad.
+* Geting into people's hair:- interfering.
+* Sleuthing:- investing.
+* Carry on:- continue.
+### 28-Jan-2021
+* Didn't beat about the bush:- came straight to the point.
+* Off and on:- now and then.
+* Throw your mind back:- Think your mind back.
+* Must see about consulting:- may have to consult.
+* Tranquilliser:- a medicen to reduce stress and anxient.
