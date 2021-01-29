@@ -859,3 +859,9 @@
 * Throw your mind back:- Think your mind back.
 * Must see about consulting:- may have to consult.
 * Tranquilliser:- a medicen to reduce stress and anxient.
+### 29-Jan-2021
+* Flying Squad:- a group of police or soldiers ready to move into action quickly.
+* ponorama:- view of a wide area.
+* Restore:- repair.
+* Withstood:- endured without collapsing.
+* Triggered:- caused.
