@@ -872,3 +872,8 @@
 * Surats:- verses from the holy Quran.
 * Treasury:- wealth
 ### 31-Jan-2021
+* A china deer:- a clay deer that is easily broken.
+* Sleek:- smooth and shiny.
+* light-headed:- unabel to think clearly.
+* Romp:- play.
+* Clustering:- gathering.
