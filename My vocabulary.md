@@ -865,3 +865,10 @@
 * Restore:- repair.
 * Withstood:- endured without collapsing.
 * Triggered:- caused.
+### 30-Jan-2021
+* Intimate:- very personal and private.
+* Racket:- uproar/loud noise
+* Crouching:- sitting(as if hiding)
+* Surats:- verses from the holy Quran.
+* Treasury:- wealth
+### 31-Jan-2021
