@@ -895,9 +895,15 @@
 * Gigantic:- immense.
 * Clustering:- gathering.
 * Being:- kind, gentle.
-### Feb-2021
+### 4-Feb-2021
 * Archipelago:- a group of many islands and the surrounding area.
 * Tremor:- the earth's shakes during an earthquick.
 * Chaos:- complete disorder or confusion.
 * Relief helicoptors:- helicoptors bringing help to people.
 * Reced:- move back from where it was.
+### 5-Feb-2021
+* Bechance:- happen/chance to happen.
+* Sojourn:- stay.
+* Radiance:- glow.
+* Fathomless:- So deep that depth can't be measured.
+* Melancholy:- very sad (the mist is called melancholy because it makes people feel melancholy).
