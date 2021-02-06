@@ -907,3 +907,9 @@
 * Radiance:- glow.
 * Fathomless:- So deep that depth can't be measured.
 * Melancholy:- very sad (the mist is called melancholy because it makes people feel melancholy).
+### 6-Feb-2021
+* Scarlet minivet:- brightf red bird like a cuckoo.
+* Drongo:- a song-bird with a stout bill.
+* Drumming:- falling noisily.
+* Disconsolately:- unhappily.
+* ravine:- valley.
