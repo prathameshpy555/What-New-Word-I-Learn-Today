@@ -913,3 +913,9 @@
 * Drumming:- falling noisily.
 * Disconsolately:- unhappily.
 * ravine:- valley.
+### 7-Feb-2021
+* Spotted it:- found.
+* Scorch marks:- burn marks.
+* Woing for:- was selling for.
+* Restore:- repair.
+* Venner:- A thin layer of plastic or decorative.
