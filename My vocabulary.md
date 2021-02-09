@@ -925,3 +925,9 @@
 * Making his head spin:- givinh him a headache/making him feel dizzy.
 * Chutney:- (here) run over/killed; crushed and ground into chutney.
 * Paniked:- wasd very worriedd.
+### 9-Feb-2021
+* Immense:- huge
+* Enormous:- very big.
+* Gigantic:- immense.
+* Clustering:- gathering.
+* Being:- kind, gentle.
