@@ -931,3 +931,9 @@
 * Gigantic:- immense.
 * Clustering:- gathering.
 * Being:- kind, gentle.
+### 10-Feb-2021
+* A china deer:- a clay deer that is easily broken.
+* Sleek:- smooth and shiny.
+* light-headed:- unabel to think clearly.
+* Romp:- play.
+* Alarm:- frighten.
