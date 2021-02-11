@@ -937,3 +937,9 @@
 * light-headed:- unabel to think clearly.
 * Romp:- play.
 * Alarm:- frighten.
+### 11-Feb-2021
+* Scorch marks:- burn marks.
+* Woing for:- was selling for.
+* Restore:- repair.
+* Venner:- A thin layer of plastic or decorative.
+* Clustering:- gathering.
