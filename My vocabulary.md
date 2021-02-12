@@ -943,3 +943,9 @@
 * Restore:- repair.
 * Venner:- A thin layer of plastic or decorative.
 * Clustering:- gathering.
+### 12-Feb-2021
+* A china deer:- a clay deer that is easily broken.
+* Sleek:- smooth and shiny.
+* light-headed:- unabel to think clearly.
+* Romp:- play.
+* Clustering:- gathering.
