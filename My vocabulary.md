@@ -967,3 +967,9 @@
 * Stirred:- move.
 * Clustering:- gathering
 * Fathomless:- So deep that depth can't be measured.
+### 16-Feb-2021
+* Immense:- huge
+* Enormous:- very big.
+* Gigantic:- immense.
+* Clustering:- gathering.
+* Being:- kind, gentle.
