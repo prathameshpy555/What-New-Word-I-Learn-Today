@@ -979,3 +979,9 @@
 * Stirred:- move.
 * Clustering:- gathering.
 * Fathomless:- So deep that depth can't be measured.
+### 18-Feb-2021
+* Grimace:- twistead expression (on the face) due to pain.
+* Glumy:- sadly/gloomily.
+* Making his head spin:- givinh him a headache/making him feel dizzy.
+* Chutney:- (here) run over/killed; crushed and ground into chutney.
+* Paniked:- wasd very worriedd.
