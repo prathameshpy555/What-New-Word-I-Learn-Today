@@ -985,3 +985,9 @@
 * Making his head spin:- givinh him a headache/making him feel dizzy.
 * Chutney:- (here) run over/killed; crushed and ground into chutney.
 * Paniked:- wasd very worriedd.
+### 19-Feb-2021
+* Burned out:- destroy by fire.
+* Boarded up:- covered with wodden boards.
+* Middel headed:- confused.
+* Lit up:- became bright with happiness.
+* Suffused with:- spred all over her face.
