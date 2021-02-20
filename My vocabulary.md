@@ -991,3 +991,9 @@
 * Middel headed:- confused.
 * Lit up:- became bright with happiness.
 * Suffused with:- spred all over her face.
+### 20-Feb-2021
+* Levitation:- floating in the air without any support.
+* Fiend:- devil.
+* Feline:- or relating to.
+* Depravity:- moral corruption.
+* Idle chat:- unnecessary routine conservasition.
