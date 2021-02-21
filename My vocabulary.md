@@ -997,3 +997,9 @@
 * Feline:- or relating to.
 * Depravity:- moral corruption.
 * Idle chat:- unnecessary routine conservasition.
+### 21-Feb-2021
+* trickle:- weak or thin flow of water
+* parched:- hot and dry
+* interminably:- endless
+* quench:- cool
+* Levitation:- floating in the air without any support.
