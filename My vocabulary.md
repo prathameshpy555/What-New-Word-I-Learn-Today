@@ -1009,3 +1009,9 @@
 * Didn't beat about the bush:- came straight to the point.
 * Blankets:- covers.
 * Inhabinants:- people living in the valley; dwellers.
+### 23-Feb-2021
+* Flying Squad:- a group of police or soldiers ready to move into action quickly.
+* ponorama:- view of a wide area.
+* Restore:- repair.
+* Withstood:- endured without collapsing.
+* Triggered:- caused.
