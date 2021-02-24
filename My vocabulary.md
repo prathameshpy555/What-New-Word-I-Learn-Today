@@ -1015,3 +1015,9 @@
 * Restore:- repair.
 * Withstood:- endured without collapsing.
 * Triggered:- caused.
+### 24-Feb-2021
+* Fritz:- a name for a german soldiers.
+* That would be that:- that was the end of the matter.
+* Cello:- a muisical instrunment like large violin.
+* Marzipan:- a sweet covering on a cake made from sugar, eggs and almonds.
+* Dugout:- a shelte for sholdiers made by digging a whole in the ground and covering it.
