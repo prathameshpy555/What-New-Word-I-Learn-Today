@@ -1021,3 +1021,9 @@
 * Cello:- a muisical instrunment like large violin.
 * Marzipan:- a sweet covering on a cake made from sugar, eggs and almonds.
 * Dugout:- a shelte for sholdiers made by digging a whole in the ground and covering it.
+### 25-Feb-2021
+* Prophecy:- ststement that tells what will happen in the future.
+* Pensive:- thoughtful.
+* Stirred:- move.
+* Inhabinants:- people living in the valley; dwellers.
+* Labour:- work.
