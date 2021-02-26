@@ -1027,3 +1027,9 @@
 * Stirred:- move.
 * Inhabinants:- people living in the valley; dwellers.
 * Labour:- work.
+### 26th-Feb-2021
+* trickle:- weak or thin flow of water
+* parched:- hot and dry
+* interminably:- endless
+* quench:- cool
+* Levitation:- floating in the air without any support.
