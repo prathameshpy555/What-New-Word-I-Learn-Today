@@ -1033,3 +1033,9 @@
 * interminably:- endless
 * quench:- cool
 * Levitation:- floating in the air without any support.
+### 27th-Feb-2021
+* Incandescence:- inner gloe or light.
+* Enormous:- very big
+* Stirred:- move.
+* Clustering:- gathering.
+* Fathomless:- So deep that depth can't be measured.
