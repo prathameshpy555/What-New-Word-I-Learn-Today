@@ -1051,3 +1051,10 @@
 * In retribution of:- as a punishment.
 * Surged:- arose suddenly and intensely.
 * ponorama:- view of a wide area.
+### 2nd-Mar-2021
+* Buzzard:- a large bird like the vulture that eats the flesh of deatd animals.
+* Adjacent:- nearby.
+* Parted:- moved or pushed aside.
+* Quivering:- shaking slightly.
+* Delirious:- (here) extremely excited.
+* Colvulsion:- shiver.
