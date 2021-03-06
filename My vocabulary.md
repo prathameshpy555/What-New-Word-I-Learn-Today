@@ -1076,3 +1076,9 @@
 * Didn't beat about the bush:- came straight to the point.
 * Blankets:- covers.
 * Inhabinants:- people living in the valley; dwellers.
+### 6th-March-2021
+* Intimate:- very personal and private.
+* Racket:- uproar/loud noise
+* Crouching:- sitting(as if hiding)
+* Surats:- verses from the holy Quran.
+* Treasury:- wealth
