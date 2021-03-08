@@ -1087,4 +1087,10 @@
 * Making his head spin:- givinh him a headache/making him feel dizzy.
 * Chutney:- (here) run over/killed; crushed and ground into chutney.
 * Paniked:- wasd very worriedd.
-*Wobbiy:- unstady
+* Wobbiy:- unstady
+### 8th-March-2021
+* Fritz:- a name for a german soldiers.
+* That would be that:- that was the end of the matter.
+* Cello:- a muisical instrunment like large violin.
+* Marzipan:- a sweet covering on a cake made from sugar, eggs and almonds.
+* Dugout:- a shelte for sholdiers made by digging a whole in the ground and covering it.
