@@ -1094,3 +1094,9 @@
 * Cello:- a muisical instrunment like large violin.
 * Marzipan:- a sweet covering on a cake made from sugar, eggs and almonds.
 * Dugout:- a shelte for sholdiers made by digging a whole in the ground and covering it.
+### 9th-March-2021
+* Scarlet minivet:- brightf red bird like a cuckoo.
+* Drongo:- a song-bird with a stout bill.
+* Drumming:- falling noisily.
+* Disconsolately:- unhappily.
+* ravine:- valley.
