@@ -1100,3 +1100,9 @@
 * Drumming:- falling noisily.
 * Disconsolately:- unhappily.
 * ravine:- valley.
+### 10th-March-2021
+* Levitation:- floating in the air without any support.
+* Fiend:- devil.
+* Feline:- or relating to.
+* Depravity:- moral corruption.
+* Idle chat:- unnecessary routine conservasition.
