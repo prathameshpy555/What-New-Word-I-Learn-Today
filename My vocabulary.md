@@ -1112,3 +1112,9 @@
 * Chaos:- complete disorder or confusion.
 * Relief helicoptors:- helicoptors bringing help to people.
 * Reced:- move back from where it was.
+### 12-March-2021
+* Withstood:- endured without collapsing.
+* Sure:- momentum.
+* Def:- disobey or resist openly.
+* Scotland:- the headquaters of the London police force.
+* Flying Squad:- a group of police or soldiers ready to move into action quickly.
