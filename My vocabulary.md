@@ -1106,3 +1106,9 @@
 * Feline:- or relating to.
 * Depravity:- moral corruption.
 * Idle chat:- unnecessary routine conservasition.
+### 11-March-2021
+* Archipelago:- a group of many islands and the surrounding area.
+* Tremor:- the earth's shakes during an earthquick.
+* Chaos:- complete disorder or confusion.
+* Relief helicoptors:- helicoptors bringing help to people.
+* Reced:- move back from where it was.
