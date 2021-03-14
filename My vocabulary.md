@@ -1106,15 +1106,27 @@
 * Feline:- or relating to.
 * Depravity:- moral corruption.
 * Idle chat:- unnecessary routine conservasition.
-### 11-March-2021
+### 11th-March-2021
 * Archipelago:- a group of many islands and the surrounding area.
 * Tremor:- the earth's shakes during an earthquick.
 * Chaos:- complete disorder or confusion.
 * Relief helicoptors:- helicoptors bringing help to people.
 * Reced:- move back from where it was.
-### 12-March-2021
+### 12th-March-2021
 * Withstood:- endured without collapsing.
 * Sure:- momentum.
 * Def:- disobey or resist openly.
 * Scotland:- the headquaters of the London police force.
 * Flying Squad:- a group of police or soldiers ready to move into action quickly.
+### 13th-March-2021
+* A china deer:- a clay deer that is easily broken.
+* Sleek:- smooth and shiny.
+* light-headed:- unabel to think clearly.
+* Romp:- play.
+* Alarm:- frighten.
+* ### 14th-March-2021
+* * Crevices:- narrow openings or cracks in rock or wall.
+* Shrew:- (find its hindi equivalent in the next sentance).
+* Caress:- touching or holding lovingly
+* menace:- threaten.
+* Perpendicular:- (cliff or rock-face) rising very steeply.
