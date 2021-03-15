@@ -1130,3 +1130,9 @@
 * Caress:- touching or holding lovingly
 * menace:- threaten.
 * Perpendicular:- (cliff or rock-face) rising very steeply.
+### 15th-March-2021
+* Didn't beat about the bush:- came straight to the point.
+* Off and on:- now and then.
+* Throw your mind back:- Think your mind back.
+* Must see about consulting:- may have to consult.
+* Tranquilliser:- a medicen to reduce stress and anxient.
