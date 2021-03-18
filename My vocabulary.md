@@ -1148,3 +1148,9 @@
 * Cello:- a muisical instrunment like large violin.
 * Marzipan:- a sweet covering on a cake made from sugar, eggs and almonds.
 * Dugout:- a shelte for sholdiers made by digging a whole in the ground and covering it.
+### 18th-March-2021
+* Procured:- got (with a littel difficulty)
+* Came round:- regained conciousness.
+* In retribution of:- as a punishment.
+* Surged:- arose suddenly and intensely.
+* ponorama:- view of a wide area.
