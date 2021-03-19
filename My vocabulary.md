@@ -1154,3 +1154,9 @@
 * In retribution of:- as a punishment.
 * Surged:- arose suddenly and intensely.
 * ponorama:- view of a wide area.
+### 19th-March-2021
+* Intimate:- very personal and private.
+* Racket:- uproar/loud noise
+* Crouching:- sitting(as if hiding)
+* Surats:- verses from the holy Quran.
+* Treasury:- wealth
