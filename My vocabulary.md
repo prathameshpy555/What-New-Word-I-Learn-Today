@@ -1160,3 +1160,9 @@
 * Crouching:- sitting(as if hiding)
 * Surats:- verses from the holy Quran.
 * Treasury:- wealth
+### 20th-March-2021
+* Meek:- quite
+* Utter Disbelief:- complete surprise.
+* Head reeled:- He was shoked and confused.
+* Losing his mind:- becoming mad.
+* Intimate:- very personal and private.
