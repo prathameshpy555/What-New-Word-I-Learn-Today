@@ -1166,3 +1166,9 @@
 * Head reeled:- He was shoked and confused.
 * Losing his mind:- becoming mad.
 * Intimate:- very personal and private.
+### 21-March-2021
+* Levitation:- floating in the air without any support.
+* Fiend:- devil.
+* Feline:- or relating to.
+* Depravity:- moral corruption.
+* Idle chat:- unnecessary routine conservasition.
