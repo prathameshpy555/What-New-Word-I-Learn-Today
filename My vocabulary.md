@@ -1172,3 +1172,9 @@
 * Feline:- or relating to.
 * Depravity:- moral corruption.
 * Idle chat:- unnecessary routine conservasition.
+### 22-March-2021
+* Meek:- quite
+* Utter Disbelief:- complete surprise.
+* Head reeled:- He was shoked and confused.
+* Losing his mind:- becoming mad.
+* Intimate:- very personal and private.
