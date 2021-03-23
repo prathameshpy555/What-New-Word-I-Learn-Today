@@ -1183,3 +1183,4 @@
 * Boarded up:- covered with wodden boards.
 * Middel headed:- confused.
 * Lit up:- became bright with happiness.
+* Suffused with:- spred all over her face.
