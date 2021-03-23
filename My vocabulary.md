@@ -1180,3 +1180,4 @@
 * Intimate:- very personal and private.
 ### 23-March-2021
 * Burned out:- destroy by fire.
+* Boarded up:- covered with wodden boards.
