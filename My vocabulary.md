@@ -1178,3 +1178,5 @@
 * Head reeled:- He was shoked and confused.
 * Losing his mind:- becoming mad.
 * Intimate:- very personal and private.
+### 23-March-2021
+* Burned out:- destroy by fire.
