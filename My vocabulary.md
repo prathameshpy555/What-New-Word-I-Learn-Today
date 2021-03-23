@@ -1182,3 +1182,4 @@
 * Burned out:- destroy by fire.
 * Boarded up:- covered with wodden boards.
 * Middel headed:- confused.
+* Lit up:- became bright with happiness.
