@@ -1184,3 +1184,5 @@
 * Middel headed:- confused.
 * Lit up:- became bright with happiness.
 * Suffused with:- spred all over her face.
+### 24th-March-2021
+* Approach = A way of doing or thinking about something.
