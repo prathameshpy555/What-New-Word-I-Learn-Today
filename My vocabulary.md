@@ -1186,3 +1186,4 @@
 * Suffused with:- spred all over her face.
 ### 24th-March-2021
 * Approach = A way of doing or thinking about something.
+* Vagaries = Unexpected change in a situation.
