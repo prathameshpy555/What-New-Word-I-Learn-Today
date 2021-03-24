@@ -1189,3 +1189,4 @@
 * Vagaries = Unexpected change in a situation.
 * Agrarian = Related to agriculture.
 * Stuffed = Having the skin filled with material to restore the original shape and appearance. = Relating to cultivated land or the cultivation of land.
+* Cuisine = A style or quality of cooking.
