@@ -1190,3 +1190,9 @@
 * Agrarian = Related to agriculture.
 * Stuffed = Having the skin filled with material to restore the original shape and appearance. = Relating to cultivated land or the cultivation of land.
 * Cuisine = A style or quality of cooking.
+### 25th-March-2021
+* Bechance:- happen/chance to happen.
+* Sojourn:- stay.
+* Radiance:- glow.
+* Fathomless:- So deep that depth can't be measured.
+* Melancholy:- very sad (the mist is called melancholy because it makes people feel melancholy).
