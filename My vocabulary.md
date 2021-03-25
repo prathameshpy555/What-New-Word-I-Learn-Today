@@ -1196,3 +1196,9 @@
 * Radiance:- glow.
 * Fathomless:- So deep that depth can't be measured.
 * Melancholy:- very sad (the mist is called melancholy because it makes people feel melancholy).
+### 26th-March-2021
+* Apprentice  = Beginner.
+* Amiable     = Friendly and Pleasant.
+* Draped      = Covered.
+* Contentment = Satisfaction.
+* Nostalgic = Feelings.
