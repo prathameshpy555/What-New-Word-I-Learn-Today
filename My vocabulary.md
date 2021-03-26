@@ -1205,3 +1205,4 @@
 * Exhilarating	= very exciting
 * Defied = Frustrated; resisted
 * Tinge = Trace/shade
+* Surged = Arose suddenly and intensely
