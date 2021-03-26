@@ -1203,3 +1203,4 @@
 * Contentment = Satisfaction.
 * Nostalgic = Feelings.
 * Exhilarating	= very exciting
+* Defied = Frustrated; resisted
