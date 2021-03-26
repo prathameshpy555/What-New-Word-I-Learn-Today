@@ -1202,3 +1202,4 @@
 * Draped      = Covered.
 * Contentment = Satisfaction.
 * Nostalgic = Feelings.
+* Exhilarating	= very exciting
