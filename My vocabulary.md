@@ -1202,7 +1202,9 @@
 * Draped      = Covered.
 * Contentment = Satisfaction.
 * Nostalgic = Feelings.
-* Exhilarating	= very exciting
-* Defied = Frustrated; resisted
-* Tinge = Trace/shade
-* Surged = Arose suddenly and intensely
+
+* Exhilarating	= very exciting.
+* Defied = Frustrated; resisted.
+* Tinge = Trace/shade.
+* Surged = Arose suddenly and intensely.
+* Panorama = View of a wide area.
