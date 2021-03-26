@@ -1204,3 +1204,4 @@
 * Nostalgic = Feelings.
 * Exhilarating	= very exciting
 * Defied = Frustrated; resisted
+* Tinge = Trace/shade
