@@ -1204,6 +1204,7 @@
 * Nostalgic = Feelings.
 ### 27th-March-2021
 * Languid = Relaxed.
+* Drifting = Moving slowely.
 
 * Exhilarating	= very exciting.
 * Defied = Frustrated; resisted.
