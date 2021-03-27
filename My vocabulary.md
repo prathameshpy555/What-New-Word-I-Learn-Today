@@ -1207,7 +1207,7 @@
 * Drifting = Moving slowely.
 * Pattern = Make patterns.
 * Tranquil = Calm.
-* 
+* Rigid = stiff
 
 * Exhilarating	= very exciting.
 * Defied = Frustrated; resisted.
