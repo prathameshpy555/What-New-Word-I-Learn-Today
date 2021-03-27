@@ -1202,6 +1202,8 @@
 * Draped      = Covered.
 * Contentment = Satisfaction.
 * Nostalgic = Feelings.
+### 27th-March-2021
+* Languid = Relaxed.
 
 * Exhilarating	= very exciting.
 * Defied = Frustrated; resisted.
