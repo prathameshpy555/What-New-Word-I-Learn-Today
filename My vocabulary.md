@@ -1205,6 +1205,8 @@
 ### 27th-March-2021
 * Languid = Relaxed.
 * Drifting = Moving slowely.
+* Pattern = Make patterns.
+
 
 * Exhilarating	= very exciting.
 * Defied = Frustrated; resisted.
