@@ -1208,7 +1208,7 @@
 * Pattern = Make patterns.
 * Tranquil = Calm.
 * Rigid = stiff
-
+###28th-March-2021
 * Exhilarating	= very exciting.
 * Defied = Frustrated; resisted.
 * Tinge = Trace/shade.
