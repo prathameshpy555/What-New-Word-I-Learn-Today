@@ -1217,3 +1217,6 @@
 ### 29th-March-2021
 * Smidgen = A small amount of something.
 * Apprentice  = Beginner.
+* Precipitation = rain.
+* Nostalgic  = Feelings.
+* Fragile = Easily broken or damaged.
