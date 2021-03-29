@@ -1208,9 +1208,11 @@
 * Pattern = Make patterns.
 * Tranquil = Calm.
 * Rigid = stiff
-###28th-March-2021
+### 28th-March-2021
 * Exhilarating	= very exciting.
 * Defied = Frustrated; resisted.
 * Tinge = Trace/shade.
 * Surged = Arose suddenly and intensely.
 * Panorama = View of a wide area.
+### 29th-March-2021
+* Smidgen = A small amount of something.
