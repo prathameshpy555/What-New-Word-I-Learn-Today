@@ -1124,8 +1124,8 @@
 * light-headed:- unabel to think clearly.
 * Romp:- play.
 * Alarm:- frighten.
-* ### 14th-March-2021
-* * Crevices:- narrow openings or cracks in rock or wall.
+### 14th-March-2021
+* Crevices:- narrow openings or cracks in rock or wall.
 * Shrew:- (find its hindi equivalent in the next sentance).
 * Caress:- touching or holding lovingly
 * menace:- threaten.
@@ -1220,8 +1220,11 @@
 * Precipitation = rain.
 * Nostalgic  = Feelings.
 * Fragile = Easily broken or damaged.
-* 
-
-
-
-
+### 30th-March-2021
+* Listless = Lacking energy.
+* Scrimmage = Confused struggle.
+* lithe = Flexible.
+* Soothing = Calm effect.
+* Eccentric = Strange.
+### 31st-March-2021
+* Crevices:- narrow openings or cracks in rock or wall.
