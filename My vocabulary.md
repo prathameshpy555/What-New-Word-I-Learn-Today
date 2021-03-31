@@ -1228,3 +1228,7 @@
 * Eccentric = Strange.
 ### 31st-March-2021
 * Crevices:- narrow openings or cracks in rock or wall.
+* Shrew:- (find its hindi equivalent in the next sentance).
+* Caress:- touching or holding lovingly
+* menace:- threaten.
+* Perpendicular:- (cliff or rock-face) rising very steeply.
