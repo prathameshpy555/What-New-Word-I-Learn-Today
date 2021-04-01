@@ -1232,3 +1232,5 @@
 * Caress:- touching or holding lovingly
 * menace:- threaten.
 * Perpendicular:- (cliff or rock-face) rising very steeply.
+### 1st-April-2021
+* Visor = A mask.
