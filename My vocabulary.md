@@ -1234,3 +1234,4 @@
 * Perpendicular:- (cliff or rock-face) rising very steeply.
 ### 1st-April-2021
 * Visor = A mask.
+* Bechance:- happen/chance to happen.
