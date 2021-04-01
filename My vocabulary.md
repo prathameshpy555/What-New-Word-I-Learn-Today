@@ -1236,3 +1236,4 @@
 * Visor = A mask.
 * Bechance:- happen/chance to happen.
 * Utter Disbelief:- complete surprise.
+* Levitation:- floating in the air without any support.
