@@ -1240,3 +1240,4 @@
 * Meek:- quite
 ### 2nd-April-2021* Levitation:- floating in the air without any support.
 * Fiend:- devil.
+* Feline:- or relating to.
