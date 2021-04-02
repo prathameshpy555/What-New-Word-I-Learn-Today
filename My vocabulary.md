@@ -1238,3 +1238,5 @@
 * Utter Disbelief:- complete surprise.
 * Levitation:- floating in the air without any support.
 * Meek:- quite
+### 2nd-April-2021* Levitation:- floating in the air without any support.
+* Fiend:- devil.
