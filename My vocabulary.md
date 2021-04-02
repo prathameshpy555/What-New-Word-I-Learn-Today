@@ -1242,3 +1242,4 @@
 * Fiend:- devil.
 * Feline:- or relating to.
 * Depravity:- moral corruption.
+* Idle chat:- unnecessary routine conservasition.
