@@ -1249,3 +1249,4 @@
 * Apprentice  = Beginner.
 * Burned out:- destroy by fire.
 * Meek:- quite
+* Passably  = Just well ample.
