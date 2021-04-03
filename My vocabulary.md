@@ -1248,3 +1248,4 @@
 * Burned out:- destroy by fire.
 * Apprentice  = Beginner.
 * Burned out:- destroy by fire.
+* Meek:- quite
