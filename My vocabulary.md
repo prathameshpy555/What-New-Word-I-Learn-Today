@@ -1244,3 +1244,5 @@
 * Depravity:- moral corruption.
 * Idle chat:- unnecessary routine conservasition.
 * Smidgen = A small amount of something.
+### 3rd-April-2021
+* Burned out:- destroy by fire.
