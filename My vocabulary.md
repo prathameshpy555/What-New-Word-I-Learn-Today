@@ -1246,3 +1246,4 @@
 * Smidgen = A small amount of something.
 ### 3rd-April-2021
 * Burned out:- destroy by fire.
+* Apprentice  = Beginner.
