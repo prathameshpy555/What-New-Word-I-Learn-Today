@@ -1247,3 +1247,4 @@
 ### 3rd-April-2021
 * Burned out:- destroy by fire.
 * Apprentice  = Beginner.
+* Burned out:- destroy by fire.
