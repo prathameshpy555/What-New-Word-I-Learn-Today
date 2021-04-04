@@ -1252,3 +1252,4 @@
 * Passably  = Just well ample.
 ### 4th-April-2021
 * Bargainous = Costing less than expected.
+* Bromance = Close platonic male friendship.
