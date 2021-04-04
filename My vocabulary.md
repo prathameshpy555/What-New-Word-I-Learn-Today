@@ -1254,3 +1254,4 @@
 * Bargainous = Costing less than expected.
 * Bromance = Close platonic male friendship.
 * Buzzkill = Person or thing that has a depressing effect.
+* Pimp = To make something more showy or impressive.
