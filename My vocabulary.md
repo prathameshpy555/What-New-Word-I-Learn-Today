@@ -1253,3 +1253,4 @@
 ### 4th-April-2021
 * Bargainous = Costing less than expected.
 * Bromance = Close platonic male friendship.
+* Buzzkill = Person or thing that has a depressing effect.
