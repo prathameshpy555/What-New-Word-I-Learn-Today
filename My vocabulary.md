@@ -1255,3 +1255,4 @@
 * Bromance = Close platonic male friendship.
 * Buzzkill = Person or thing that has a depressing effect.
 * Pimp = To make something more showy or impressive.
+* Rock = To do something in a confident, flamboyant way.
