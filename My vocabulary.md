@@ -1250,3 +1250,5 @@
 * Burned out:- destroy by fire.
 * Meek:- quite
 * Passably  = Just well ample.
+### 4th-April-2021
+* Bargainous = Costing less than expected.
