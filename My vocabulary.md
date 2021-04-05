@@ -1258,3 +1258,4 @@
 * Rock = To do something in a confident, flamboyant way.
 ### 5th-April-2021
 * Off and on = Now and then.
+* Having a rough time = Having a lot of problems.
