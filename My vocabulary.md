@@ -1256,3 +1256,5 @@
 * Buzzkill = Person or thing that has a depressing effect.
 * Pimp = To make something more showy or impressive.
 * Rock = To do something in a confident, flamboyant way.
+### 5th-April-2021
+* Off and on = Now and then.
