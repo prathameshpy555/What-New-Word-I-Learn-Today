@@ -1262,3 +1262,9 @@
 * Sleuthing = Investigating.
 * Dilated = Enlarged.
 * Sidled back = Walked back quietly.
+### 6th-April-2021
+* Listless = Lacking energy.
+* Scrimmage = Confused struggle.
+* lithe = Flexible.
+* Soothing = Calm effect.
+* Eccentric = Strange.
