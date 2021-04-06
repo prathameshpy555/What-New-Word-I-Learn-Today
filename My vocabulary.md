@@ -1268,4 +1268,3 @@
 * lithe = Flexible.
 * Soothing = Calm effect.
 * Eccentric = Strange.
-
