@@ -1268,3 +1268,9 @@
 * lithe = Flexible.
 * Soothing = Calm effect.
 * Eccentric = Strange.
+### 7th-April-2021
+* Visor     = A mask.
+* Urge      = Try earnestly or persistently to persuade (someone) to do something.
+* Blunder   = A stupid or careless mistake.
+* Sound off = Express one's opinions in a loud or forceful manner.
+* Anxiety   = A felling of worry.
