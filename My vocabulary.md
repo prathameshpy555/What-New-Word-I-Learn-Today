@@ -1280,3 +1280,9 @@
 * In retribution of:- as a punishment.
 * Surged:- arose suddenly and intensely.
 * ponorama:- view of a wide area.
+### 9th-April-2021
+* Off and on = Now and then.
+* Having a rough time = Having a lot of problems.
+* Sleuthing = Investigating.
+* Dilated = Enlarged.
+* Sidled back = Walked back quietly.
