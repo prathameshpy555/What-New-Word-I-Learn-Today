@@ -1286,3 +1286,9 @@
 * Sleuthing = Investigating.
 * Dilated = Enlarged.
 * Sidled back = Walked back quietly.
+### 10th-April-2021
+* Discern = Identitfy
+* Peppered = Coward with spot
+* Caress = A gentle loving touch
+* Novice = someone new to a job
+* Nonplus = puzzled
