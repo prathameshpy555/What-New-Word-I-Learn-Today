@@ -1292,3 +1292,9 @@
 * Caress = A gentle loving touch
 * Novice = someone new to a job
 * Nonplus = puzzled
+### 11th-April-2021
+* Apprentice  = Beginner.
+* Amiable     = Friendly and Pleasant.
+* Draped      = Covered.
+* Contentment = Satisfaction.
+* Nostalgic = Feelings.
