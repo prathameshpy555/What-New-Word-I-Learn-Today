@@ -1298,3 +1298,9 @@
 * Draped      = Covered.
 * Contentment = Satisfaction.
 * Nostalgic = Feelings.
+### 12TH-April-2021
+* Discern = Identitfy
+* Peppered = Coward with spot
+* Caress = A gentle loving touch
+* Novice = someone new to a job
+* Nonplus = puzzled
