@@ -1304,3 +1304,9 @@
 * Caress = A gentle loving touch
 * Novice = someone new to a job
 * Nonplus = puzzled
+### 13TH-April-2021
+* Clerk = A person employed to keep a record.
+* Summons = Request.
+* Seek out = find out.
+* Fleeing = To run away.
+* rejoyed = Enjoyed.
