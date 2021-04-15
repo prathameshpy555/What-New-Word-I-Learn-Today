@@ -1304,9 +1304,15 @@
 * Caress = A gentle loving touch
 * Novice = someone new to a job
 * Nonplus = puzzled
-### 13TH-April-2021
+### 13th-April-2021
 * Clerk = A person employed to keep a record.
 * Summons = Request.
 * Seek out = find out.
 * Fleeing = To run away.
 * rejoyed = Enjoyed.
+### 14th-April-2021
+* Utter = complete.
+* Elusive = difficult to find.
+* Niche = a shallow recess, especially one in a wall to display a statue or other ornament.
+* Relevant = closely connected or appropriate to what is being done or considered.
+* Pursue = follow or chase
