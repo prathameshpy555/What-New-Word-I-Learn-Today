@@ -1316,3 +1316,9 @@
 * Niche = a shallow recess, especially one in a wall to display a statue or other ornament.
 * Relevant = closely connected or appropriate to what is being done or considered.
 * Pursue = follow or chase
+### 15th-April-2021
+* Intimate:- very personal and private.
+* Racket:- uproar/loud noise
+* Crouching:- sitting(as if hiding)
+* Surats:- verses from the holy Quran.
+* Treasury:- wealth
