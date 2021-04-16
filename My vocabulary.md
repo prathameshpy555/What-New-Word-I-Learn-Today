@@ -1322,3 +1322,9 @@
 * Crouching:- sitting(as if hiding)
 * Surats:- verses from the holy Quran.
 * Treasury:- wealth
+## 16th-April-2021
+* Swearing = Use of offensive language.
+* Hackman = The man driver of house.
+* Seized = Take hold of suddenly.
+* Barn = House of storing grain.
+* Peering = Look with difficulty or concentration.
