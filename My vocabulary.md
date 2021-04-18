@@ -1334,3 +1334,9 @@
 * Astrophysicist = scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
 * Buoyant = intensely active and vibrant.
 * Torso = upper of the body.
+### 18th-April-2021
+* Flying Squad:- a group of police or soldiers ready to move into action quickly.
+* ponorama:- view of a wide area.
+* Restore:- repair.
+* Withstood:- endured without collapsing.
+* Triggered:- caused.
