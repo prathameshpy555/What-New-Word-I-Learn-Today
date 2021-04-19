@@ -1340,3 +1340,9 @@
 * Restore:- repair.
 * Withstood:- endured without collapsing.
 * Triggered:- caused.
+### 19th-April-2021
+* Scorch marks:- burn marks.
+* Woing for:- was selling for.
+* Restore:- repair.
+* Venner:- A thin layer of plastic or decorative.
+* Clustering:- gathering.
