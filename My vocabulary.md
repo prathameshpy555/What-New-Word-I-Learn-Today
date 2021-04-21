@@ -1238,7 +1238,7 @@
 * Utter Disbelief:- complete surprise.
 * Levitation:- floating in the air without any support.
 * Meek:- quite
-### 2nd-April-2021* Levitation:- floating in the air without any support.
+### 2nd-April-2021 Levitation:- floating in the air without any support.
 * Fiend:- devil.
 * Feline:- or relating to.
 * Depravity:- moral corruption.
@@ -1352,3 +1352,9 @@
 * light-headed:- unabel to think clearly.
 * Romp:- play.
 * Clustering:- gathering.
+### 21st-April-2021
+* Incandescence:- inner gloe or light.
+* Enormous:- very big
+* Stirred:- move.
+* Clustering:- gathering.
+* Fathomless:- So deep that depth can't be measured.
