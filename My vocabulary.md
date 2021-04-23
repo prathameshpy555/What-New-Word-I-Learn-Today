@@ -1358,3 +1358,9 @@
 * Stirred:- move.
 * Clustering:- gathering.
 * Fathomless:- So deep that depth can't be measured.
+### 22nd-April-2021
+* Spotted it= found.
+* Scorch marks= burn marks.
+* Woing for= was selling for.
+* Restore= repair.
+* Venner= A thin layer of plastic or decorative.
