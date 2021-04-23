@@ -1364,3 +1364,9 @@
 * Woing for= was selling for.
 * Restore= repair.
 * Venner= A thin layer of plastic or decorative.
+### 23rd-April-2021
+* Precipitation = rain.
+* Drizzle       = Light rainfall.
+* Footman       = Male servant.
+* Lofty         = Very High.
+* Scut          = Short tail of an animal.
