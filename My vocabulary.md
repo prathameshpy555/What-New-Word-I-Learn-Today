@@ -1370,3 +1370,9 @@
 * Footman       = Male servant.
 * Lofty         = Very High.
 * Scut          = Short tail of an animal.
+### 24th-April-2021
+* Bracing:- stimulating.
+* Going nuts:- going mad.
+* Geting into people's hair:- interfering.
+* Sleuthing:- investing.
+* Carry on:- continue.
