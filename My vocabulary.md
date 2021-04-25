@@ -1376,3 +1376,9 @@
 * Geting into people's hair:- interfering.
 * Sleuthing:- investing.
 * Carry on:- continue.
+### 25th-April-2021
+* Immense:- huge
+* Enormous:- very big.
+* Gigantic:- immense.
+* Clustering:- gathering.
+* Being:- kind, gentle.
