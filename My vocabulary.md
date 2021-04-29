@@ -1400,3 +1400,9 @@
 * Cello:- a muisical instrunment like large violin.
 * Marzipan:- a sweet covering on a cake made from sugar, eggs and almonds.
 * Dugout:- a shelte for sholdiers made by digging a whole in the ground and covering it.
+### 29th-April-2021
+* Incandescence= inner gloe or light.
+* Enormous= very big
+* Stirred= move.
+* Clustering= gathering.
+* Fathomless= So deep that depth can't be measured.
