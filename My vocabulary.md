@@ -1406,3 +1406,9 @@
 * Stirred= move.
 * Clustering= gathering.
 * Fathomless= So deep that depth can't be measured.
+### 30th-April-2021
+* Ordeals:- Painful experiences.
+* Sleek:- smooth and shiny.
+* Didn't beat about the bush:- came straight to the point.
+* Blankets:- covers.
+* Inhabinants:- people living in the valley; dwellers.
