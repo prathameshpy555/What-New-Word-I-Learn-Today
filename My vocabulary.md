@@ -1418,3 +1418,9 @@
 * Astute  = Having or showing an ability to accurately assess situations.
 * Potent  = Having great power, influence, or effect.
 * Firm    = Having a solid, almost unyielding surface orstructure.
+### 2nd-May-2021
+* Glumy:- sadly/gloomily.
+* Making his head spin:- givinh him a headache/making him feel dizzy.
+* Chutney:- (here) run over/killed; crushed and ground into chutney.
+* Paniked:- wasd very worriedd.
+* Wobbiy:- unstady
