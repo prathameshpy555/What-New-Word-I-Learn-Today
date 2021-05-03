@@ -1424,3 +1424,9 @@
 * Chutney:- (here) run over/killed; crushed and ground into chutney.
 * Paniked:- wasd very worriedd.
 * Wobbiy:- unstady
+### 3rd-May-2021
+* Immense:- huge
+* Enormous:- very big.
+* Gigantic:- immense.
+* Clustering:- gathering.
+* Being:- kind, gentle.
