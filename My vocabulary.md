@@ -1430,3 +1430,9 @@
 * Gigantic:- immense.
 * Clustering:- gathering.
 * Being:- kind, gentle.
+### 4th-May-2021
+* Incandescence= inner gloe or light.
+* Enormous= very big
+* Stirred= move.
+* Clustering= gathering.
+* Fathomless= So deep that depth can't be measured.
