@@ -661,7 +661,6 @@
 * Contentment = Satisfaction.
 * Nostalgic = Feelings.
 ### 27-Dec-2020
-* Buzzard:- a large bird like the vulture that eats the flesh of deatd animals.
 * Adjacent:- nearby.
 * Parted:- moved or pushed aside.
 * Quivering:- shaking slightly.
@@ -1436,3 +1435,15 @@
 * Stirred= move.
 * Clustering= gathering.
 * Fathomless= So deep that depth can't be measured.
+### 5th-May-2021
+* Adjacent:- nearby.
+* Parted:- moved or pushed aside.
+* Quivering:- shaking slightly.
+* Delirious:- (here) extremely excited.
+* Colvulsion:- shiver.
+### 6th-May-2021
+* Bracing:- stimulating.
+* Going nuts:- going mad.
+* Geting into people's hair:- interfering.
+* Sleuthing:- investing.
+* Carry on:- continue.
