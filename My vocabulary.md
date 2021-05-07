@@ -1447,3 +1447,9 @@
 * Geting into people's hair:- interfering.
 * Sleuthing:- investing.
 * Carry on:- continue.
+### 7th-May-2021
+* Prophecy:- ststement that tells what will happen in the future.
+* Pensive:- thoughtful.
+* Stirred:- move.
+* Inhabinants:- people living in the valley; dwellers.
+* Labour:- work.
