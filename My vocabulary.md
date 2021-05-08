@@ -1453,3 +1453,9 @@
 * Stirred:- move.
 * Inhabinants:- people living in the valley; dwellers.
 * Labour:- work.
+### 8th-May-2021
+* Exhilarating	= very exciting.
+* Defied = Frustrated; resisted.
+* Tinge = Trace/shade.
+* Surged = Arose suddenly and intensely.
+* Panorama = View of a wide area.
