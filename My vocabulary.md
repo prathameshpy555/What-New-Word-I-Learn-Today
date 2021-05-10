@@ -1465,3 +1465,9 @@
 * Euthenics  = The study of the control of environment.
 * Elicit     = To draw out.
 * Queer      = Strange.
+### 10th-may-2021
+* Intimate:- very personal and private.
+* Racket:- uproar/loud noise
+* Crouching:- sitting(as if hiding)
+* Surats:- verses from the holy Quran.
+* Treasury:- wealth
