@@ -1459,3 +1459,9 @@
 * Tinge = Trace/shade.
 * Surged = Arose suddenly and intensely.
 * Panorama = View of a wide area.
+### 9th-May-2021
+* Nostalgic  = Feelings.
+* Eliminate  = To remove.
+* Euthenics  = The study of the control of environment.
+* Elicit     = To draw out.
+* Queer      = Strange.
