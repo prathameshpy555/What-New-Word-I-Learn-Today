@@ -1471,3 +1471,9 @@
 * Crouching:- sitting(as if hiding)
 * Surats:- verses from the holy Quran.
 * Treasury:- wealth
+### 11th-May-2021
+* Nostalgic  = Feelings.
+* Eliminate  = To remove.
+* Euthenics  = The study of the control of environment.
+* Elicit     = To draw out.
+* Queer      = Strange.
