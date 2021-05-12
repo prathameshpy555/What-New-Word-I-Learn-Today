@@ -1477,3 +1477,9 @@
 * Euthenics  = The study of the control of environment.
 * Elicit     = To draw out.
 * Queer      = Strange.
+### 12th-May-2021
+* chillax = calm down and relax
+* clickbait = online content to attract more visitors to a particular website
+* conlang = an invented language intended for human communication
+* cheeseball = lacking taste, style, or originality
+* buzzkill = person or thing that has a depressing effect
