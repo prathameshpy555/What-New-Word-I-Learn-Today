@@ -1489,3 +1489,9 @@
 * Astrophysicist:- scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
 * Buoyant:- intensely active and vibrant.
 * Torso:- upper of the body.
+### 14th-May-2021
+* Swearing = Use of offensive language.
+* Hackman = The man driver of house.
+* Seized = Take hold of suddenly.
+* Barn = House of storing grain.
+* Peering = Look with difficulty or concentration.
