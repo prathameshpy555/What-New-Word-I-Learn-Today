@@ -1507,3 +1507,9 @@
 * Feline:- or relating to.
 * Depravity:- moral corruption.
 * Idle chat:- unnecessary routine conservasition.
+### 17th-May-2021
+* Glumy:- sadly/gloomily.
+* Making his head spin:- givinh him a headache/making him feel dizzy.
+* Chutney:- (here) run over/killed; crushed and ground into chutney.
+* Paniked:- wasd very worriedd.
+* Wobbiy:- unstady
