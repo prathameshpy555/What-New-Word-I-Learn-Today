@@ -1513,3 +1513,15 @@
 * Chutney:- (here) run over/killed; crushed and ground into chutney.
 * Paniked:- wasd very worriedd.
 * Wobbiy:- unstady
+### 18th-May-2021
+* Prime       = Best.
+* Damp        = Wet.
+* Embarrassed = Ashamed.
+* Lavish      = Very grand.
+* Pretended   = Not real.
+### 19th-May-2021
+*  Nostalgic  = Feelings.
+* Eliminate  = To remove.
+* Euthenics  = The study of the control of environment.
+* Elicit     = To draw out.
+* Queer      = Strange.
