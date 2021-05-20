@@ -1525,3 +1525,9 @@
 * Euthenics  = The study of the control of environment.
 * Elicit     = To draw out.
 * Queer      = Strange.
+### 20th-May-2021
+* Prime       = Best.
+* Damp        = Wet.
+* Embarrassed = Ashamed.
+* Lavish      = Very grand.
+* Pretended   = Not real.
