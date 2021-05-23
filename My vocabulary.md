@@ -1543,3 +1543,9 @@
 * Throw your mind back:- Think your mind back.
 * Must see about consulting:- may have to consult.
 * Tranquilliser:- a medicen to reduce stress and anxient.
+### 23-May-2021
+* Visor     = A mask.
+* Urge      = Try earnestly or persistently to persuade (someone) to do something.
+* Blunder   = A stupid or careless mistake.
+* Sound off = Express one's opinions in a loud or forceful manner.
+* Anxiety   = A felling of worry.
