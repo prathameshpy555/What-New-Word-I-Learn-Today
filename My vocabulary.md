@@ -1549,3 +1549,9 @@
 * Blunder   = A stupid or careless mistake.
 * Sound off = Express one's opinions in a loud or forceful manner.
 * Anxiety   = A felling of worry.
+### 24th-May-2021
+* hoist:- pull up higher
+* light-headed:- unable to think clearly.
+* romp:- play
+* alarm:- frighten.
+* balked:- (also baulked) was unwilling (to do something)
