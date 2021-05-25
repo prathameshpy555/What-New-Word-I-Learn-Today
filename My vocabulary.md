@@ -1555,3 +1555,9 @@
 * romp:- play
 * alarm:- frighten.
 * balked:- (also baulked) was unwilling (to do something)
+### 25th-May-2021
+* Poker game = Cards game.
+* Fritzs = German armyy.
+* Tommy = England army.
+* Sloppy = carelessly dressed.
+* Piercingly = In a high pitch.
