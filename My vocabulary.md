@@ -1561,3 +1561,9 @@
 * Tommy = England army.
 * Sloppy = carelessly dressed.
 * Piercingly = In a high pitch.
+### 26th-May-2021
+* Levitation:- floating in the air without any support.
+* Fiend:- devil.
+* Feline:- or relating to.
+* Depravity:- moral corruption.
+* Idle chat:- unnecessary routine conservasition.
