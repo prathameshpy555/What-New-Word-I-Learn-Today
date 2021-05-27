@@ -1567,3 +1567,9 @@
 * Feline:- or relating to.
 * Depravity:- moral corruption.
 * Idle chat:- unnecessary routine conservasition.
+### 27th-May-2021
+* Carriages = Any of the separate sections of a train that carry passengers.
+* Heavily = To a great degree; in large amounts.
+* Tuck = Push.
+* Appealing = Attractive.
+* Grunting = Making low guttural sounds.
