@@ -1573,3 +1573,9 @@
 * Tuck = Push.
 * Appealing = Attractive.
 * Grunting = Making low guttural sounds.
+### 28th-May-2021
+* Listless = Lacking energy.
+* Scrimmage = Confused struggle.
+* lithe = Flexible.
+* Soothing = Calm effect.
+* Eccentric = Strange.
