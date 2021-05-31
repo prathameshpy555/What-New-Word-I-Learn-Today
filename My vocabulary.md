@@ -1591,3 +1591,9 @@
 * Head reeled:- He was shoked and confused.
 * Losing his mind:- becoming mad.
 * Intimate:- very personal and private.
+### 31st-May-2021
+* Prophecy:- ststement that tells what will happen in the future.
+* Pensive:- thoughtful.
+* Stirred:- move.
+* Inhabinants:- people living in the valley; dwellers.
+* Labour:- work.
