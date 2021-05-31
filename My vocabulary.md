@@ -1585,3 +1585,9 @@
 * Caress:- touching or holding lovingly
 * menace:- threaten.
 * Perpendicular:- (cliff or rock-face) rising very steeply.
+### 30th-May-2021
+* Meek:- quite
+* Utter Disbelief:- complete surprise.
+* Head reeled:- He was shoked and confused.
+* Losing his mind:- becoming mad.
+* Intimate:- very personal and private.
