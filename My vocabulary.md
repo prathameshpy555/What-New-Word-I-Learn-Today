@@ -1597,3 +1597,9 @@
 * Stirred:- move.
 * Inhabinants:- people living in the valley; dwellers.
 * Labour:- work.
+### 1st-June-2021
+* Incandescence= inner gloe or light.
+* Enormous= very big
+* Stirred= move.
+* Clustering= gathering.
+* Fathomless= So deep that depth can't be measured.
