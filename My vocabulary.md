@@ -1603,3 +1603,9 @@
 * Stirred= move.
 * Clustering= gathering.
 * Fathomless= So deep that depth can't be measured.
+### 2nd-June-2021
+* Didn't beat about the bush:- came straight to the point.
+* Off and on:- now and then.
+* Throw your mind back:- Think your mind back.
+* Must see about consulting:- may have to consult.
+* Tranquilliser:- a medicen to reduce stress and anxient.
