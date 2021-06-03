@@ -1609,3 +1609,9 @@
 * Throw your mind back:- Think your mind back.
 * Must see about consulting:- may have to consult.
 * Tranquilliser:- a medicen to reduce stress and anxient.
+### 3rd-June-2021
+* Apprentice  = Beginner.
+* Amiable     = Friendly and Pleasant.
+* Draped      = Covered.
+* Contentment = Satisfaction.
+* Nostalgic = Feelings.
