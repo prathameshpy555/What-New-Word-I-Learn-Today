@@ -1621,3 +1621,9 @@
 * Astute  = Having or showing an ability to accurately assess situations.
 * Potent  = Having great power, influence, or effect.
 * Firm    = Having a solid, almost unyielding surface orstructure.
+### 5th-June-2021
+* Nostalgic  = Feelings.
+* Eliminate  = To remove.
+* Euthenics  = The study of the control of environment.
+* Elicit     = To draw out.
+* Queer      = Strange.
