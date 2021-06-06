@@ -1627,3 +1627,9 @@
 * Euthenics  = The study of the control of environment.
 * Elicit     = To draw out.
 * Queer      = Strange.
+### 6th-June-2021
+* Incandescence:- inner gloe or light.
+* Enormous:- very big
+* Stirred:- move.
+* Clustering:- gathering
+* Fathomless:- So deep that depth can't be measured.
