@@ -1633,3 +1633,9 @@
 * Stirred:- move.
 * Clustering:- gathering
 * Fathomless:- So deep that depth can't be measured.
+### 7th-June-2021
+* Bechance:- happen/chance to happen.
+* Sojourn:- stay.
+* Radiance:- glow.
+* Fathomless:- So deep that depth can't be measured.
+* Melancholy:- very sad (the mist is called melancholy because it makes people feel melancholy).
