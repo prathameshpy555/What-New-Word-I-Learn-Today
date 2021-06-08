@@ -1639,3 +1639,9 @@
 * Radiance:- glow.
 * Fathomless:- So deep that depth can't be measured.
 * Melancholy:- very sad (the mist is called melancholy because it makes people feel melancholy).
+### 8th-June-2021
+* Meek:- quite
+* Utter Disbelief:- complete surprise.
+* Head reeled:- He was shoked and confused.
+* Losing his mind:- becoming mad.
+* Intimate:- very personal and private.
