@@ -1645,3 +1645,9 @@
 * Head reeled:- He was shoked and confused.
 * Losing his mind:- becoming mad.
 * Intimate:- very personal and private.
+### 9th-June-2021
+* Bewildered = Confused.
+* Eject      = Remove.
+* Eccentric  = Strange.
+* Curious    = Eager to know or learn something.
+* Chink      = A narrow opening.
