@@ -1651,3 +1651,9 @@
 * Eccentric  = Strange.
 * Curious    = Eager to know or learn something.
 * Chink      = A narrow opening.
+### 10th-June-201
+* Flying Squad:- a group of police or soldiers ready to move into action quickly.
+* ponorama:- view of a wide area.
+* Restore:- repair.
+* Withstood:- endured without collapsing.
+* Triggered:- caused.
