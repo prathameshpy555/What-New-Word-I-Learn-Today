@@ -1657,3 +1657,9 @@
 * Restore:- repair.
 * Withstood:- endured without collapsing.
 * Triggered:- caused.
+### 11th-June-2021
+* Visor = A mask.
+* Bechance:- happen/chance to happen.
+* Utter Disbelief:- complete surprise.
+* Levitation:- floating in the air without any support.
+* Meek:- quite
