@@ -1663,3 +1663,9 @@
 * Utter Disbelief:- complete surprise.
 * Levitation:- floating in the air without any support.
 * Meek:- quite
+### 12th-June-2021
+* Discern = Identitfy
+* Peppered = Coward with spot
+* Caress = A gentle loving touch
+* Novice = someone new to a job
+* Nonplus = puzzled
