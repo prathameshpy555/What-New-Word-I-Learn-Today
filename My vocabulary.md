@@ -1669,3 +1669,9 @@
 * Caress = A gentle loving touch
 * Novice = someone new to a job
 * Nonplus = puzzled
+### 13th-June-2021
+* Hemmed in:- (here) caught in a situation where one can't say 'on'.
+* Acorns:- small brown nuts.
+* Sidled back:- walk back quitely, trying not to be noticed.
+* Evare which way:- in diffecult direction.
+* Makes a bearing:- acts as a compass and helps to identify directions.
