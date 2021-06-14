@@ -1675,3 +1675,9 @@
 * Sidled back:- walk back quitely, trying not to be noticed.
 * Evare which way:- in diffecult direction.
 * Makes a bearing:- acts as a compass and helps to identify directions.
+### 14th-June-2021
+* Perish = Die.
+* Suffice = Sufficient.
+* Eccentric = Strange.
+* Nostalgic = Feelings.
+* Nonplus = puzzled.
