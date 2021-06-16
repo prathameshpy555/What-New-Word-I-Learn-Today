@@ -1687,3 +1687,9 @@
 * Seized = Take hold of suddenly.
 * Barn = House of storing grain.
 * Peering = Look with difficulty or concentration.
+### 16th-June-2021
+* Utter    = complete.
+* Elusive  = difficult to find.
+* Niche    = a shallow recess, especially one in a wall to display a statue or other ornament.
+* Relevant = closely connected or appropriate to what is being done or considered.
+* Pursue   = follow or chase
