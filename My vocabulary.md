@@ -304,7 +304,6 @@
 * Swede = A large root vegetable.
 * Philosophy = Nature of knowledge.
 * Simplicity = Understanding easyliy.
-* Simplicity = Understanding easyliy
 ### 29-Oct-2020
 * Swearing = Use of offensive language.
 * Hackman = The man driver of house.
@@ -1693,3 +1692,9 @@
 * Niche    = a shallow recess, especially one in a wall to display a statue or other ornament.
 * Relevant = closely connected or appropriate to what is being done or considered.
 * Pursue   = follow or chase
+### 17th-June-2021
+* Earnestly = Sincerly.
+* Folks = People in general.
+* Swede = A large root vegetable.
+* Philosophy = Nature of knowledge.
+* Simplicity = Understanding easyliy.
