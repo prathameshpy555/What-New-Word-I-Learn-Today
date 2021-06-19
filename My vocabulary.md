@@ -1698,3 +1698,15 @@
 * Swede = A large root vegetable.
 * Philosophy = Nature of knowledge.
 * Simplicity = Understanding easyliy.
+### 18th-June-2021
+* hoist = pull up higher
+* light-headed = unable to think clearly.
+* romp = play
+* alarm = frighten.
+* balked = (also baulked) was unwilling (to do something)
+### 19th-June-2021
+* Scarlet minivet:- brightf red bird like a cuckoo.
+* Drongo:- a song-bird with a stout bill.
+* Drumming:- falling noisily.
+* Disconsolately:- unhappily.
+* ravine:- valley.
