@@ -1716,3 +1716,9 @@
 * Seek out = Find out.
 * Fleeing = to run away.
 * Rejoiced = Enjoyed.
+### 21st-June-2021
+* Defied = frustrated;resisted.
+* Mystical = spiritual.
+* Firm in = make your self firm.
+* Belays = fixes a rope.
+* Ascent = climb.
