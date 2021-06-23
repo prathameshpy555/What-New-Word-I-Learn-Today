@@ -1728,3 +1728,9 @@
 * Head reeled:- He was shoked and confused.
 * Losing his mind:- becoming mad.
 * Intimate:- very personal and private.
+### 23rd-June-2021
+* Adjacent:- nearby.
+* Parted:- moved or pushed aside.
+* Quivering:- shaking slightly.
+* Delirious:- (here) extremely excited.
+* Colvulsion:- shiver.
