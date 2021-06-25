@@ -1740,3 +1740,9 @@
 * Romp = play
 * Alarm = frighten.
 * Balked = (also baulked) was unwilling (to do something)
+### 25th-June-2021
+* Meek:- quite
+* Utter Disbelief:- complete surprise.
+* Head reeled:- He was shoked and confused.
+* Losing his mind:- becoming mad.
+* Intimate:- very personal and private.
