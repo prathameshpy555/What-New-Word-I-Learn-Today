@@ -1752,3 +1752,15 @@
 * Sidled back:- walk back quitely, trying not to be noticed.
 * Evare which way:- in diffecult direction.
 * Makes a bearing:- acts as a compass and helps to identify directions.
+### 27th-June-2021
+* A china deer:- a clay deer that is easily broken.
+* Sleek:- smooth and shiny.
+* light-headed:- unabel to think clearly.
+* Romp:- play.
+* Alarm:- frighten.
+### 28th-June-2021
+* Withstood:- endured without collapsing.
+* Sure:- momentum.
+* Def:- disobey or resist openly.
+* Scotland:- the headquaters of the London police force.
+* Flying Squad:- a group of police or soldiers ready to move into action quickly.
