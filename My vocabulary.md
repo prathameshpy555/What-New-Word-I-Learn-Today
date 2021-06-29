@@ -1764,3 +1764,9 @@
 * Def:- disobey or resist openly.
 * Scotland:- the headquaters of the London police force.
 * Flying Squad:- a group of police or soldiers ready to move into action quickly.
+### 29th-June-2021
+* Conscientious: careful and correct.
+* Head was in whirl:- confused and anable to think clearly.
+* Gather his wits together:- make an effort to become calm and think clearly.
+* Having a rough time:- having a lot of problems.
+* Turning up like a bad penny:- appearing at a place where one is not welcome.
