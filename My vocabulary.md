@@ -1770,3 +1770,9 @@
 * Gather his wits together:- make an effort to become calm and think clearly.
 * Having a rough time:- having a lot of problems.
 * Turning up like a bad penny:- appearing at a place where one is not welcome.
+### 30th-June-2021
+* Burned out:- destroy by fire.
+* Boarded up:- covered with wodden boards.
+* Middel headed:- confused.
+* Lit up:- became bright with happiness.
+* Suffused with:- spred all over her face.
