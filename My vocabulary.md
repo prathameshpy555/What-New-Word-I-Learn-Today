@@ -1776,3 +1776,9 @@
 * Middel headed:- confused.
 * Lit up:- became bright with happiness.
 * Suffused with:- spred all over her face.
+### 1st-July-2021
+* Scarlet minivet:- brightf red bird like a cuckoo.
+* Drongo:- a song-bird with a stout bill.
+* Drumming:- falling noisily.
+* Disconsolately:- unhappily.
+* ravine:- valley.
