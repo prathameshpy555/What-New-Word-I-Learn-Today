@@ -1788,3 +1788,9 @@
 * Making his head spin:- givinh him a headache/making him feel dizzy.
 * Chutney:- (here) run over/killed; crushed and ground into chutney.
 * Paniked:- wasd very worriedd.
+### 3rd-July-2021
+* Ordeals:- Painful experiences.
+* Sleek:- smooth and shiny.
+* Didn't beat about the bush:- came straight to the point.
+* Blankets:- covers.
+* Inhabinants:- people living in the valley; dwellers.
