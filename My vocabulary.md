@@ -1794,3 +1794,9 @@
 * Didn't beat about the bush:- came straight to the point.
 * Blankets:- covers.
 * Inhabinants:- people living in the valley; dwellers.
+### 4th-July-2021
+* Conscientious: careful and correct.
+* Head was in whirl:- confused and anable to think clearly.
+* Gather his wits together:- make an effort to become calm and think clearly.
+* Having a rough time:- having a lot of problems.
+* Turning up like a bad penny:- appearing at a place where one is not welcome.
