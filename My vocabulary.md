@@ -1806,3 +1806,9 @@
 * Head reeled:- He was shoked and confused.
 * Losing his mind:- becoming mad.
 * Intimate:- very personal and private.
+### 6th-July-2021
+* Jubilant:- Very happy because of success.
+* Tinge:- trace/shade.
+* Exhaustion:- fatigue;tiredness.
+* Exhilarating:- very exciting.
+* Communion:- state of felling close relationsheep.
