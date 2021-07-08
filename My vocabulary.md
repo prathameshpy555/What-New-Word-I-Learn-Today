@@ -1823,4 +1823,4 @@
 * Racket:- uproar/loud noise
 * Crouching:- sitting(as if hiding)
 * Surats:- verses from the holy Quran.
-* Treasury:- 
+* Treasury:- wealth
