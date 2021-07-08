@@ -1813,9 +1813,14 @@
 * Exhilarating:- very exciting.
 * Communion:- state of felling close relationsheep.
 ### 7th-July-2021
-Scarlet minivet:- brightf red bird like a cuckoo.
-Drongo:- a song-bird with a stout bill.
-Drumming:- falling noisily.
-Disconsolately:- unhappily.
-ravine:- valley.
+* Scarlet minivet:- brightf red bird like a cuckoo.
+* Drongo:- a song-bird with a stout bill.
+* Drumming:- falling noisily.
+* Disconsolately:- unhappily.
+* ravine:- valley.
 ### 8th-July-2021
+* Intimate:- very personal and private.
+* Racket:- uproar/loud noise
+* Crouching:- sitting(as if hiding)
+* Surats:- verses from the holy Quran.
+* Treasury:- wealth
