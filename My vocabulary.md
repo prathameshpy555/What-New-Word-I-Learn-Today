@@ -1824,3 +1824,9 @@
 * Crouching:- sitting(as if hiding)
 * Surats:- verses from the holy Quran.
 * Treasury:- wealth
+### 9th-July-2021
+* Ruinous = Disastrous.
+* Vexation = Distressed.
+* Sou = A farmer French coin of low value.
+* Awry = Not in the position or shape; twisted.
+* Incessantly = Continuously.
