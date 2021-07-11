@@ -1830,3 +1830,9 @@
 * Sou = A farmer French coin of low value.
 * Awry = Not in the position or shape; twisted.
 * Incessantly = Continuously.
+### 10th-July-2021
+* Interminably:- endlessly
+* Trickel:- weak or thin flow of water.
+* Torrent:- rushing strem (of water)
+* Translucency:- clarity (possible to see through)
+* cascading:- coming down (like a water fall)
