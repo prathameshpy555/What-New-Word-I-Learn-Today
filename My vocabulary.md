@@ -1836,3 +1836,15 @@
 * Torrent:- rushing strem (of water)
 * Translucency:- clarity (possible to see through)
 * cascading:- coming down (like a water fall)
+### 11th-July-2021
+* Procured:- got (with a littel difficulty)
+* Came round:- regained conciousness.
+* In retribution of:- as a punishment.
+* Surged:- arose suddenly and intensely.
+* ponorama:- view of a wide area.
+### 12th-July-2021
+* Ordeals:- Painful experiences.
+* Sleek:- smooth and shiny.
+* Didn't beat about the bush:- came straight to the point.
+* Blankets:- covers.
+* Inhabinants:- people living in the valley; dwellers.
