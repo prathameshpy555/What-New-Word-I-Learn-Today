@@ -1860,3 +1860,9 @@
 * Caress:- touching or holding lovingly
 * menace:- threaten.
 * Perpendicular:- (cliff or rock-face) rising very steeply.
+### 15th-July-2021
+* Prophecy:- ststement that tells what will happen in the future.
+* Pensive:- thoughtful.
+* Stirred:- move.
+* Inhabinants:- people living in the valley; dwellers.
+* Labour:- work.
