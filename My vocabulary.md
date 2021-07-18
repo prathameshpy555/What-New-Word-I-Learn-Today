@@ -1878,3 +1878,9 @@
 * Caress = A gentle loving touch
 * Novice = someone new to a job
 * Nonplus = puzzled
+### 18th-July-2021
+* Intimate:- very personal and private.
+* Racket:- uproar/loud noise
+* Crouching:- sitting(as if hiding)
+* Surats:- verses from the holy Quran.
+* Treasury:- wealth
