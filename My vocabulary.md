@@ -1884,3 +1884,9 @@
 * Crouching:- sitting(as if hiding)
 * Surats:- verses from the holy Quran.
 * Treasury:- wealth
+### 19th-July-2021
+* Drift back:- go back
+* Lifted:- raise
+* Instant:- mement
+* Gourd:- a countainer for liquid.
+* dipped:- put in
