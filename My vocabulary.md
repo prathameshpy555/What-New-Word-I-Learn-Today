@@ -1890,3 +1890,9 @@
 * Instant:- mement
 * Gourd:- a countainer for liquid.
 * dipped:- put in
+### 20th-July-2021
+* Intimate:- very personal and private.
+* Racket:- uproar/loud noise
+* Crouching:- sitting(as if hiding)
+* Surats:- verses from the holy Quran.
+* Treasury:- wealth
