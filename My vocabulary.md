@@ -1896,3 +1896,9 @@
 * Crouching:- sitting(as if hiding)
 * Surats:- verses from the holy Quran.
 * Treasury:- wealth
+### 21-July-2021
+* Prophecy:- ststement that tells what will happen in the future.
+* Pensive:- thoughtful.
+* Stirred:- move.
+* Inhabinants:- people living in the valley; dwellers.
+* Labour:- work.
