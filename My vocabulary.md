@@ -1914,9 +1914,15 @@
 * Didn't beat about the bush:- came straight to the point.
 * Blankets:- covers.
 * Inhabinants:- people living in the valley; dwellers.
-### 24-jULY-2021
+### 24-Jyly-2021
 * Meek:- quite
 * Utter Disbelief:- complete surprise.
 * Head reeled:- He was shoked and confused.
 * Losing his mind:- becoming mad.
 * Intimate:- very personal and private.
+### 25th-July-2021
+* light-headed:- unabel to think clearly.
+* Colvulsion:- shiver.
+* Venner:- A thin layer of plastic or decorative.
+* Buzzard:- a large bird like the vulture that eats the flesh of deatd animals.
+* Incandescence:- inner gloe or light.
