@@ -1926,3 +1926,9 @@
 * Venner:- A thin layer of plastic or decorative.
 * Buzzard:- a large bird like the vulture that eats the flesh of deatd animals.
 * Incandescence:- inner gloe or light.
+### 26th-July-2021
+* Discern = Identitfy
+* Peppered = Coward with spot
+* Caress = A gentle loving touch
+* Novice = someone new to a job
+* Nonplus = puzzled
