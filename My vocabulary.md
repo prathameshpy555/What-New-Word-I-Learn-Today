@@ -1932,3 +1932,9 @@
 * Caress = A gentle loving touch
 * Novice = someone new to a job
 * Nonplus = puzzled
+### 27th-July-2021
+* Grimace:- twistead expression (on the face) due to pain.
+* Glumy:- sadly/gloomily.
+* Making his head spin:- givinh him a headache/making him feel dizzy.
+* Chutney:- (here) run over/killed; crushed and ground into chutney.
+* Paniked:- wasd very worriedd.
