@@ -1938,3 +1938,9 @@
 * Making his head spin:- givinh him a headache/making him feel dizzy.
 * Chutney:- (here) run over/killed; crushed and ground into chutney.
 * Paniked:- wasd very worriedd.
+### 28th-July-2021
+* Precipitation = rain.
+* Drizzle       = Light rainfall.
+* Footman       = Male servant.
+* Lofty         = Very High.
+* Scut          = Short tail of an animal.
