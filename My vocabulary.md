@@ -1950,3 +1950,9 @@
 * Astute  = Having or showing an ability to accurately assess situations.
 * Potent  = Having great power, influence, or effect.
 * Firm    = Having a solid, almost unyielding surface orstructure.
+### 20th-July-2021
+* Fragile = Easily broken or damaged.
+* Null    = Of no effect.
+* Glad    = Joyful.
+* Jerky   = Not smooth.
+* Unapt   = Not suitable.
