@@ -1950,9 +1950,15 @@
 * Astute  = Having or showing an ability to accurately assess situations.
 * Potent  = Having great power, influence, or effect.
 * Firm    = Having a solid, almost unyielding surface orstructure.
-### 20th-July-2021
+### 30th-July-2021
 * Fragile = Easily broken or damaged.
 * Null    = Of no effect.
 * Glad    = Joyful.
 * Jerky   = Not smooth.
 * Unapt   = Not suitable.
+### 31st-July-2021
+* Precipitation = rain.
+* Drizzle       = Light rainfall.
+* Footman       = Male servant.
+* Lofty         = Very High.
+* Scut          = Short tail of an animal.
