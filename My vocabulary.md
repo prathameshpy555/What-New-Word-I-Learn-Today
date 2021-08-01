@@ -1962,3 +1962,9 @@
 * Footman       = Male servant.
 * Lofty         = Very High.
 * Scut          = Short tail of an animal.
+### 1st-August-2021
+* Taken their toll on:- damaged.
+* Stuck fast:- shut tight.
+* Scruples: feelings that makes you hesitate to do something wrong.
+* Standing to:- taking up positions.
+* Trenches:- long deep ditches in the ground where soldiers hide from the enemy.
