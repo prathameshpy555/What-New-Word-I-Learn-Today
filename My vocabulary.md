@@ -1963,8 +1963,15 @@
 * Lofty         = Very High.
 * Scut          = Short tail of an animal.
 ### 1st-August-2021
-* Taken their toll on:- damaged.
-* Stuck fast:- shut tight.
-* Scruples: feelings that makes you hesitate to do something wrong.
-* Standing to:- taking up positions.
-* Trenches:- long deep ditches in the ground where soldiers hide from the enemy.
+* Taken their toll on  = damaged.
+* Stuck fast           = shut tight.
+* Scruples             = feelings that makes you hesitate to do something wrong.
+* Standing to          = taking up positions.
+* Trenches             = long deep ditches in the ground where soldiers hide from the enemy.
+### 2nd-August-2021
+* Buzzard     = a large bird like the vulture that eats the flesh of deatd animals.
+* Adjacent    = nearby.
+* Parted      = moved or pushed aside.
+* Quivering   = shaking slightly.
+* Delirious   = (here) extremely excited.
+* Colvulsion  = shiver.
