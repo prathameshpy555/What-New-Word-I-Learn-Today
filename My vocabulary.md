@@ -1975,3 +1975,9 @@
 * Quivering   = shaking slightly.
 * Delirious   = (here) extremely excited.
 * Colvulsion  = shiver.
+### 3rd-July-2021
+* Clerk = A person employed to keep a record.
+* Summons = Request.
+* Seek out = find out.
+* Fleeing = To run away.
+* rejoyed = Enjoyed.
