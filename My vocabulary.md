@@ -1975,9 +1975,15 @@
 * Quivering   = shaking slightly.
 * Delirious   = (here) extremely excited.
 * Colvulsion  = shiver.
-### 3rd-July-2021
+### 3rd-August-2021
 * Clerk = A person employed to keep a record.
 * Summons = Request.
 * Seek out = find out.
 * Fleeing = To run away.
 * rejoyed = Enjoyed.
+### 4th-August-2021
+* Glumy:- sadly/gloomily.
+* Making his head spin:- givinh him a headache/making him feel dizzy.
+* Chutney:- (here) run over/killed; crushed and ground into chutney.
+* Paniked:- wasd very worriedd.
+* Wobbiy:- unstady
