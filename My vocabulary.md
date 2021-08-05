@@ -1987,3 +1987,9 @@
 * Chutney:- (here) run over/killed; crushed and ground into chutney.
 * Paniked:- wasd very worriedd.
 * Wobbiy:- unstady
+### 5th-August-2021
+* Scorch marks:- burn marks.
+* Woing for:- was selling for.
+* Restore:- repair.
+* Venner:- A thin layer of plastic or decorative.
+* Clustering:- gathering.
