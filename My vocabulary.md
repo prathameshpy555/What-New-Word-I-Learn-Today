@@ -1993,3 +1993,9 @@
 * Restore:- repair.
 * Venner:- A thin layer of plastic or decorative.
 * Clustering:- gathering.
+### 6th-August-2021
+* Passably  = Just well ample.
+* Espionage = Spying.
+* Prosaic   = Ordinary.
+* Chuckled  = Laughed quietly, without opening his mouth.
+* Shrilly   = In a high pitch.
