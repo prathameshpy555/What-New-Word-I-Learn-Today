@@ -1999,3 +1999,9 @@
 * Prosaic   = Ordinary.
 * Chuckled  = Laughed quietly, without opening his mouth.
 * Shrilly   = In a high pitch.
+### 7th-August-2021
+* Ordeals:- Painful experiences.
+* Sleek:- smooth and shiny.
+* Didn't beat about the bush:- came straight to the point.
+* Blankets:- covers.
+* Inhabinants:- people living in the valley; dwellers.
