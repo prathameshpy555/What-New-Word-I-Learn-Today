@@ -2005,3 +2005,9 @@
 * Didn't beat about the bush:- came straight to the point.
 * Blankets:- covers.
 * Inhabinants:- people living in the valley; dwellers.
+### 8th-August-2021
+* Procured:- got (with a littel difficulty)
+* Came round:- regained conciousness.
+* In retribution of:- as a punishment.
+* Surged:- arose suddenly and intensely.
+* ponorama:- view of a wide area.
