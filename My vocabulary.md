@@ -2011,3 +2011,9 @@
 * In retribution of:- as a punishment.
 * Surged:- arose suddenly and intensely.
 * ponorama:- view of a wide area.
+### 9th-August-2021
+* Ordeals:- Painful experiences.
+* Sleek:- smooth and shiny.
+* Didn't beat about the bush:- came straight to the point.
+* Blankets:- covers.
+* Inhabinants:- people living in the valley; dwellers.
