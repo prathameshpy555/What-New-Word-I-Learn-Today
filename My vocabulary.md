@@ -2017,3 +2017,9 @@
 * Didn't beat about the bush:- came straight to the point.
 * Blankets:- covers.
 * Inhabinants:- people living in the valley; dwellers.
+### 10th-August-2021
+* Bargainous = Costing less than expected.
+* Bromance = Close platonic male friendship.
+* Buzzkill = Person or thing that has a depressing effect.
+* Pimp = To make something more showy or impressive.
+* Rock = To do something in a confident, flamboyant way.
