@@ -2023,3 +2023,9 @@
 * Buzzkill = Person or thing that has a depressing effect.
 * Pimp = To make something more showy or impressive.
 * Rock = To do something in a confident, flamboyant way.
+### 11th-Auguest-2021
+* Incandescence= inner gloe or light.
+* Enormous= very big
+* Stirred= move.
+* Clustering= gathering.
+* Fathomless= So deep that depth can't be measured.
