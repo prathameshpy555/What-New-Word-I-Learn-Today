@@ -2029,3 +2029,9 @@
 * Stirred= move.
 * Clustering= gathering.
 * Fathomless= So deep that depth can't be measured.
+### 12th-August-2021
+* Prime       = Best.
+* Damp        = Wet.
+* Embarrassed = Ashamed.
+* Lavish      = Very grand.
+* Pretended   = Not real.
