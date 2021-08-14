@@ -2035,3 +2035,9 @@
 * Embarrassed = Ashamed.
 * Lavish      = Very grand.
 * Pretended   = Not real.
+### 13th-August-2021
+* Immense = huge
+* Enormous = very big.
+* Gigantic = immense.
+* Clustering = gathering.
+* Being = kind, gentle.
