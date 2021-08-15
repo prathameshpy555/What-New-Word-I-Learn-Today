@@ -2047,3 +2047,9 @@
 * romp:- play
 * alarm:- frighten.
 * balked:- (also baulked) was unwilling (to do something)
+### 15th-August-2021
+* Carriages = Any of the separate sections of a train that carry passengers.
+* Heavily = To a great degree; in large amounts.
+* Tuck = Push.
+* Appealing = Attractive.
+* Grunting = Making low guttural sounds.
