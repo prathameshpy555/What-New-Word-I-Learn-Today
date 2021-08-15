@@ -2041,3 +2041,9 @@
 * Gigantic = immense.
 * Clustering = gathering.
 * Being = kind, gentle.
+### 14th-August-2021
+* hoist:- pull up higher
+* light-headed:- unable to think clearly.
+* romp:- play
+* alarm:- frighten.
+* balked:- (also baulked) was unwilling (to do something)
