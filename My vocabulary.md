@@ -2053,3 +2053,9 @@
 * Tuck = Push.
 * Appealing = Attractive.
 * Grunting = Making low guttural sounds.
+### 16th-August-2021
+* Exhilarating	= very exciting.
+* Defied = Frustrated; resisted.
+* Tinge = Trace/shade.
+* Surged = Arose suddenly and intensely.
+* Panorama = View of a wide area.
