@@ -2059,3 +2059,9 @@
 * Tinge = Trace/shade.
 * Surged = Arose suddenly and intensely.
 * Panorama = View of a wide area.
+### 17th-August-2021
+* Listless = Lacking energy.
+* Scrimmage = Confused struggle.
+* lithe = Flexible.
+* Soothing = Calm effect.
+* Eccentric = Strange.
