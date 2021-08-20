@@ -2077,3 +2077,9 @@
 * Astrophysicist:- scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
 * Buoyant:- intensely active and vibrant.
 * Torso:- upper of the body.
+### 20th-August-2021
+* Incandescence:- inner gloe or light.
+* Enormous:- very big
+* Stirred:- move.
+* Clustering:- gathering.
+* Fathomless:- So deep that depth can't be measured.
