@@ -2083,3 +2083,9 @@
 * Stirred:- move.
 * Clustering:- gathering.
 * Fathomless:- So deep that depth can't be measured.
+### 21st-August-2021
+Pulled:- arrived
+Wobby:- unsteady
+Glumly:- sadly
+Tiffin:- snack
+Squashay:;- crushed
