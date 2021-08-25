@@ -2101,3 +2101,9 @@ Squashay:;- crushed
 * In retribution of:- as a punishment.
 * Surged:- arose suddenly and intensely.
 * ponorama:- view of a wide area.
+### 25th-August-2021
+* Procured:- got (with a littel difficulty)
+* Came round:- regained conciousness.
+* In retribution of:- as a punishment.
+* Surged:- arose suddenly and intensely.
+* ponorama:- view of a wide area.
