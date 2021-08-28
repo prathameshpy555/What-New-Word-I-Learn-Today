@@ -2113,3 +2113,15 @@ Squashay:;- crushed
 * Cello:- a muisical instrunment like large violin.
 * Marzipan:- a sweet covering on a cake made from sugar, eggs and almonds.
 * Dugout:- a shelte for sholdiers made by digging a whole in the ground and covering it.
+### 27th-August-2021
+* Adjacent:- nearby.
+* Parted:- moved or pushed aside.
+* Quivering:- shaking slightly.
+* Delirious:- (here) extremely excited.
+* Colvulsion:- shiver.
+### 28th-August-2021
+* Exhilarating	= very exciting.
+* Defied = Frustrated; resisted.
+* Tinge = Trace/shade.
+* Surged = Arose suddenly and intensely.
+* Panorama = View of a wide area.
