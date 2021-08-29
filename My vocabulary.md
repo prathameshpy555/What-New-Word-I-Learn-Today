@@ -2125,3 +2125,9 @@ Squashay:;- crushed
 * Tinge = Trace/shade.
 * Surged = Arose suddenly and intensely.
 * Panorama = View of a wide area.
+### 29th-August-2021
+* Balked:- (also baulked) was unwilling (to do something).
+* Worsted sockes:- woolen socks.
+* Astrophysicist:- scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
+* Buoyant:- intensely active and vibrant.
+* Torso:- upper of the body.
