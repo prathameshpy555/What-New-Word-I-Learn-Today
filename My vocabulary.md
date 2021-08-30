@@ -2131,3 +2131,9 @@ Squashay:;- crushed
 * Astrophysicist:- scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
 * Buoyant:- intensely active and vibrant.
 * Torso:- upper of the body.
+### 30th-August-2021
+* Bracing:- stimulating.
+* Going nuts:- going mad.
+* Geting into people's hair:- interfering.
+* Sleuthing:- investing.
+* Carry on:- continue.
