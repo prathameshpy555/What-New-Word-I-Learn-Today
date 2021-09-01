@@ -2143,3 +2143,9 @@ Squashay:;- crushed
 * Astute  = Having or showing an ability to accurately assess situations.
 * Potent  = Having great power, influence, or effect.
 * Firm    = Having a solid, almost unyielding surface orstructure.
+### 1st-September-2021
+* unabashed - not embarrassed .
+* dilatory - wasting time .
+* alacrity - eagerness.
+* callous - disregard for others .
+* cognizant - awareness or realisation .
