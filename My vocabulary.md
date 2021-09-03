@@ -2155,3 +2155,9 @@ Squashay:;- crushed
 * Caress:- touching or holding lovingly
 * menace:- threaten.
 * Perpendicular:- (cliff or rock-face) rising very steeply.
+### 3rd-September-2021
+* Refute:- To prove to be wrong or flase; disprove
+* Ingenuity:- The quality of being clever, original, and inventive.
+* Manifestation:- An event, action or object that clearly shows or embodies something abstract or theoretical.
+* Negligible:- So small or unimportant as to be not worth considering; insignificant.
+* Evacuated:- Remove from a place of danger to a safer place.
