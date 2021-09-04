@@ -2161,3 +2161,9 @@ Squashay:;- crushed
 * Manifestation:- An event, action or object that clearly shows or embodies something abstract or theoretical.
 * Negligible:- So small or unimportant as to be not worth considering; insignificant.
 * Evacuated:- Remove from a place of danger to a safer place.
+### 4th-September-2021
+* Unification = The process of being united or made into a whole.
+* Reduction = The action or fact of making something smaller or less in amount, degree, or size.
+* Thermodynamics = Thermodynamic is a branch of physics that deals with heat, work, and temperature, and their relation to energy, radiation, and physical properties of matter.
+* Macroscopic = Visible to naked eyes; not microscopic.
+* Kinetic = Relating to or resulting from motion.
