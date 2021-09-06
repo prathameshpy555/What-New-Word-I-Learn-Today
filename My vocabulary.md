@@ -2167,3 +2167,15 @@ Squashay:;- crushed
 * Thermodynamics = Thermodynamic is a branch of physics that deals with heat, work, and temperature, and their relation to energy, radiation, and physical properties of matter.
 * Macroscopic = Visible to naked eyes; not microscopic.
 * Kinetic = Relating to or resulting from motion.
+### 5th-September-2021
+* Perish = Die.
+* Suffice = Sufficient.
+* Eccentric = Strange.
+* Nostalgic = Feelings.
+* Nonplus = puzzled.
+### 6th-September-2021
+* Glumy:- sadly/gloomily.
+* Making his head spin:- givinh him a headache/making him feel dizzy.
+* Chutney:- (here) run over/killed; crushed and ground into chutney.
+* Paniked:- wasd very worriedd.
+* Wobbiy:- unstady
