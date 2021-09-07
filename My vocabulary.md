@@ -2179,3 +2179,9 @@ Squashay:;- crushed
 * Chutney:- (here) run over/killed; crushed and ground into chutney.
 * Paniked:- wasd very worriedd.
 * Wobbiy:- unstady
+### 7th-September-2021
+* Searchingly:- In a way that is intended to find out the truth about something.
+* Chink:- A small narrow opening.
+* Stood:- To be on your feet.
+* Fleetingly:- For a very short time.
+* Pale:- Light in color or shade.
