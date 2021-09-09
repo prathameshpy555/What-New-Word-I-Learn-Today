@@ -2191,3 +2191,9 @@ Squashay:;- crushed
 * Romp = play
 * Alarm = frighten.
 * Balked = (also baulked) was unwilling (to do something)
+### 9th-September-2021
+* trickle:- weak or thin flow of water
+* parched:- hot and dry
+* interminably:- endless
+* quench:- cool
+* Levitation:- floating in the air without any support.
