@@ -2185,3 +2185,9 @@ Squashay:;- crushed
 * Stood:- To be on your feet.
 * Fleetingly:- For a very short time.
 * Pale:- Light in color or shade.
+### 8th-September-2021
+* Hoist = pull up higher
+* Light-headed = unable to think clearly.
+* Romp = play
+* Alarm = frighten.
+* Balked = (also baulked) was unwilling (to do something)
