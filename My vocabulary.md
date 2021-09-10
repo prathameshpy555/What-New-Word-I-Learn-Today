@@ -2197,3 +2197,9 @@ Squashay:;- crushed
 * interminably:- endless
 * quench:- cool
 * Levitation:- floating in the air without any support.
+### 10th-September-2021
+* Revolting:- Disgusting.
+* Vertable:- Often to qualify a metaphor.
+* Chirp:- Sharp.
+* Serenity:- Peaceful, and untroubled.
+* Rebuke:- Express sharp disapproval.
