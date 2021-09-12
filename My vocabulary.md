@@ -2209,3 +2209,9 @@ Squashay:;- crushed
 * Blunder   = A stupid or careless mistake.
 * Sound off = Express one's opinions in a loud or forceful manner.
 * Anxiety   = A felling of worry.
+### 12th-September-2021
+* Frivolous:- Not having any serious purpose or value.
+* Bedlam:- A scene of uproar and confusion.
+* Prophet:- A person regarded as an inspired teacher or proclaimer of the will of God.
+* Stoop:- Bend one's head or body forwards and downwards.
+* Pale:- Light in color or shade.
