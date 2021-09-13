@@ -2215,3 +2215,9 @@ Squashay:;- crushed
 * Prophet:- A person regarded as an inspired teacher or proclaimer of the will of God.
 * Stoop:- Bend one's head or body forwards and downwards.
 * Pale:- Light in color or shade.
+### 13th-September-2021
+* Bargainous = Costing less than expected.
+* Bromance = Close platonic male friendship.
+* Buzzkill = Person or thing that has a depressing effect.
+* Pimp = To make something more showy or impressive.
+* Rock = To do something in a confident, flamboyant way.
