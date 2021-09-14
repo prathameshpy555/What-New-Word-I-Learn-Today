@@ -2221,3 +2221,9 @@ Squashay:;- crushed
 * Buzzkill = Person or thing that has a depressing effect.
 * Pimp = To make something more showy or impressive.
 * Rock = To do something in a confident, flamboyant way.
+### 14th-September-2021
+* Owes = Repay.
+* Swede = A large root vegetable.
+* Ditches = Narrow channel of water.
+* Incessantly = Continuously.
+* County = region.
