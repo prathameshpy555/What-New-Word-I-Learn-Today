@@ -2227,3 +2227,9 @@ Squashay:;- crushed
 * Ditches = Narrow channel of water.
 * Incessantly = Continuously.
 * County = region.
+### 15th-September-2021
+* A china deer:- a clay deer that is easily broken.
+* Sleek:- smooth and shiny.
+* light-headed:- unabel to think clearly.
+* Romp:- play.
+* Clustering:- gathering.
