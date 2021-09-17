@@ -2239,3 +2239,9 @@ Squashay:;- crushed
 * Stirred= move.
 * Clustering= gathering.
 * Fathomless= So deep that depth can't be measured.
+### 17th-September-2021
+* hoist = pull up higher
+* light-headed = unable to think clearly.
+* romp = play
+* alarm = frighten.
+* balked = (also baulked) was unwilling (to do something)
