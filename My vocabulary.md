@@ -2251,3 +2251,9 @@ Squashay:;- crushed
 * Middel headed:- confused.
 * Lit up:- became bright with happiness.
 * Suffused with:- spred all over her face.
+### 19th-September-2021
+* hoist:- pull up higher
+* light-headed:- unable to think clearly.
+* romp:- play
+* alarm:- frighten.
+* balked:- (also baulked) was unwilling (to do something)
