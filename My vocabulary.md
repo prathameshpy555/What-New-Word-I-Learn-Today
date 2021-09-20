@@ -2257,3 +2257,9 @@ Squashay:;- crushed
 * romp:- play
 * alarm:- frighten.
 * balked:- (also baulked) was unwilling (to do something)
+### 20th-September-2021
+* Spotted it= found.
+* Scorch marks= burn marks.
+* Woing for= was selling for.
+* Restore= repair.
+* Venner= A thin layer of plastic or decorative.
