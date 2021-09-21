@@ -2263,3 +2263,9 @@ Squashay:;- crushed
 * Woing for= was selling for.
 * Restore= repair.
 * Venner= A thin layer of plastic or decorative.
+### 21st-September-2021
+* Ruinous = Disastrous.
+* Vexation = Distressed.
+* Sou = A farmer French coin of low value.
+* Awry = Not in the position or shape; twisted.
+* Incessantly = Continuously.
