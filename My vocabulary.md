@@ -2269,3 +2269,9 @@ Squashay:;- crushed
 * Sou = A farmer French coin of low value.
 * Awry = Not in the position or shape; twisted.
 * Incessantly = Continuously.
+###22nd-September-2021
+* Visor     = A mask.
+* Urge      = Try earnestly or persistently to persuade (someone) to do something.
+* Blunder   = A stupid or careless mistake.
+* Sound off = Express one's opinions in a loud or forceful manner.
+* Anxiety   = A felling of worry.
