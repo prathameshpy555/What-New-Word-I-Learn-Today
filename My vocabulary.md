@@ -2269,9 +2269,21 @@ Squashay:;- crushed
 * Sou = A farmer French coin of low value.
 * Awry = Not in the position or shape; twisted.
 * Incessantly = Continuously.
-###22nd-September-2021
+### 22nd-September-2021
 * Visor     = A mask.
 * Urge      = Try earnestly or persistently to persuade (someone) to do something.
 * Blunder   = A stupid or careless mistake.
 * Sound off = Express one's opinions in a loud or forceful manner.
 * Anxiety   = A felling of worry.
+### 23rd-September-2021
+* Levitation:- floating in the air without any support.
+* Fiend:- devil.
+* Feline:- or relating to.
+* Depravity:- moral corruption.
+* Idle chat:- unnecessary routine conservasition.
+### 24th-September-2021
+* Burned out:- destroy by fire.
+* Boarded up:- covered with wodden boards.
+* Middel headed:- confused.
+* Lit up:- became bright with happiness.
+* Suffused with:- spred all over her face.
