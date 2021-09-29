@@ -2305,3 +2305,9 @@ Squashay:;- crushed
 * Astute  = Having or showing an ability to accurately assess situations.
 * Potent  = Having great power, influence, or effect.
 * Firm    = Having a solid, almost unyielding surface orstructure.
+### 28th-September-2021
+* Spotted it= found.
+* Scorch marks= burn marks.
+* Woing for= was selling for.
+* Restore= repair.
+* Venner= A thin layer of plastic or decorative.
