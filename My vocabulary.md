@@ -2311,3 +2311,9 @@ Squashay:;- crushed
 * Woing for= was selling for.
 * Restore= repair.
 * Venner= A thin layer of plastic or decorative.
+### 29th-September-2021
+* Fritz:- a name for a german soldiers.
+* That would be that:- that was the end of the matter.
+* Cello:- a muisical instrunment like large violin.
+* Marzipan:- a sweet covering on a cake made from sugar, eggs and almonds.
+* Dugout:- a shelte for sholdiers made by digging a whole in the ground and covering it.
