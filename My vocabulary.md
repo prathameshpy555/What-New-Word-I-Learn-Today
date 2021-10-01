@@ -2323,3 +2323,9 @@ Squashay:;- crushed
 * Romp:- play
 * Alarm:- frighten.
 * Balked:- (also baulked) was unwilling (to do something)
+### 1st-October-2021
+* Flying Squad:- a group of police or soldiers ready to move into action quickly.
+* ponorama:- view of a wide area.
+* Restore:- repair.
+* Withstood:- endured without collapsing.
+* Triggered:- caused.
