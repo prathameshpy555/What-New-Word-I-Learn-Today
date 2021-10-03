@@ -2335,3 +2335,9 @@ Squashay:;- crushed
 * Glad = Feeling happy.
 * Cent = Currency unit.
 * Owes = Pay or repay.
+### 3rd-October-2021
+* Ordeals:- Painful experiences.
+* Sleek:- smooth and shiny.
+* Didn't beat about the bush:- came straight to the point.
+* Blankets:- covers.
+* Inhabinants:- people living in the valley; dwellers.
