@@ -2341,3 +2341,9 @@ Squashay:;- crushed
 * Didn't beat about the bush:- came straight to the point.
 * Blankets:- covers.
 * Inhabinants:- people living in the valley; dwellers.
+### 4th-October-2021
+* Incandescence:- inner gloe or light.
+* Enormous:- very big
+* Stirred:- move.
+* Clustering:- gathering.
+* Fathomless:- So deep that depth can't be measured.
