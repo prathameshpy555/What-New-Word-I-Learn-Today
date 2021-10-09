@@ -2353,3 +2353,27 @@ Squashay:;- crushed
 * Romp:- play
 * Alarm:- frighten.
 * Balked:- (also baulked) was unwilling (to do something)
+### 6th-October-2021
+* Burned out:- destroy by fire.
+* Boarded up:- covered with wodden boards.
+* Middel headed:- confused.
+* Lit up:- became bright with happiness.
+* Suffused with:- spred all over her face.
+### 7th-October-2021
+* Meek:- quite
+* Utter Disbelief:- complete surprise.
+* Head reeled:- He was shoked and confused.
+* Losing his mind:- becoming mad.
+* Intimate:- very personal and private.
+### 8th-October-2021
+* Scarlet minivet:- brightf red bird like a cuckoo.
+* Drongo:- a song-bird with a stout bill.
+* Drumming:- falling noisily.
+* Disconsolately:- unhappily.
+* ravine:- valley.
+### 9th-October-2021
+* Smidgen = A small amount of something.
+* Shred   = A strip of material,such as paper, cloth, or food.
+* Astute  = Having or showing an ability to accurately assess situations.
+* Potent  = Having great power, influence, or effect.
+* Firm    = Having a solid, almost unyielding surface orstructure.
