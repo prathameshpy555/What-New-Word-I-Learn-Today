@@ -2377,3 +2377,9 @@ Squashay:;- crushed
 * Astute  = Having or showing an ability to accurately assess situations.
 * Potent  = Having great power, influence, or effect.
 * Firm    = Having a solid, almost unyielding surface orstructure.
+### 10th-October-2021
+* Immense:- huge
+* Enormous:- very big.
+* Gigantic:- immense.
+* Clustering:- gathering.
+* Being:- kind, gentle.
