@@ -2395,3 +2395,9 @@ Squashay:;- crushed
 * Squatted = Sitting on knee.
 * Sobbing = To catch the breath.
 * Stammer = Involuntary stop.
+### 13th-October-2021
+* Intimate:- very personal and private.
+* Racket:- uproar/loud noise
+* Crouching:- sitting(as if hiding)
+* Surats:- verses from the holy Quran.
+* Treasury:- wealth
