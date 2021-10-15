@@ -2407,3 +2407,9 @@ Squashay:;- crushed
 * Euthenics  = The study of the control of environment.
 * Elicit     = To draw out.
 * Queer      = Strange.
+### 15th-October-2021
+* Crevices:- narrow openings or cracks in rock or wall.
+* Shrew:- (find its hindi equivalent in the next sentance).
+* Caress:- touching or holding lovingly
+* menace:- threaten.
+* Perpendicular:- (cliff or rock-face) rising very steeply.
