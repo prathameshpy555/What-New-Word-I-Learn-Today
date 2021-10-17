@@ -2419,3 +2419,9 @@ Squashay:;- crushed
 * Astute  = Having or showing an ability to accurately assess situations.
 * Potent  = Having great power, influence, or effect.
 * Firm    = Having a solid, almost unyielding surface orstructure.
+### 17th-October-2021
+* Matted = Fur.
+* Fear-laden = Feeling of distress.
+* Squatted = Sitting on knee.
+* Sobbing = To catch the breath.
+* Stammer = Involuntary stop.
