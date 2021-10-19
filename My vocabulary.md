@@ -2425,3 +2425,9 @@ Squashay:;- crushed
 * Squatted = Sitting on knee.
 * Sobbing = To catch the breath.
 * Stammer = Involuntary stop.
+### 18th-October-2021
+* Fragile = Easily broken or damaged.
+* Null = Of no effect.
+* Glad = Joyful.
+* Jerky = Not smooth.
+* Unapt = Not suitable.
