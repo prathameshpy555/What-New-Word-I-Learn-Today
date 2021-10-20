@@ -2437,3 +2437,9 @@ Squashay:;- crushed
 * Making his head spin = givinh him a headache/making him feel dizzy.
 * Chutney = (here) run over/killed; crushed and ground into chutney.
 * Paniked = wasd very worriedd.
+### 20-Oct-2021
+* Archipelago= a group of many islands and the surrounding area.
+* Tremor= the earth's shakes during an earthquick.
+* Chaos= complete disorder or confusion.
+* Relief helicoptors= helicoptors bringing help to people.
+* Reced= move back from where it was.
