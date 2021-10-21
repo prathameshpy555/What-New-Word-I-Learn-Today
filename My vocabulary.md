@@ -2443,3 +2443,9 @@ Squashay:;- crushed
 * Chaos= complete disorder or confusion.
 * Relief helicoptors= helicoptors bringing help to people.
 * Reced= move back from where it was.
+### 21-Oct-2021
+* Precipitation = rain.
+* Drizzle       = Light rainfall.
+* Footman       = Male servant.
+* Lofty         = Very High.
+* Scut          = Short tail of an animal.
