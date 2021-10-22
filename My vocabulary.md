@@ -2449,3 +2449,9 @@ Squashay:;- crushed
 * Footman       = Male servant.
 * Lofty         = Very High.
 * Scut          = Short tail of an animal.
+### 22-Oct-2021
+* Spotted it:- found.
+* Scorch marks:- burn marks.
+* Woing for:- was selling for.
+* Restore:- repair.
+* Venner:- A thin layer of plastic or decorative.
