@@ -2455,3 +2455,9 @@ Squashay:;- crushed
 * Woing for:- was selling for.
 * Restore:- repair.
 * Venner:- A thin layer of plastic or decorative.
+### 23rd-October-2021
+* Bracing:- stimulating.
+* Going nuts:- going mad.
+* Geting into people's hair:- interfering.
+* Sleuthing:- investing.
+* Carry on:- continue.
