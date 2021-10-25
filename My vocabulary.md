@@ -2461,3 +2461,15 @@ Squashay:;- crushed
 * Geting into people's hair:- interfering.
 * Sleuthing:- investing.
 * Carry on:- continue.
+### 24th-Oct-2021
+* Spotted it= found.
+* Scorch marks= burn marks.
+* Woing for= was selling for.
+* Restore= repair.
+* Venner= A thin layer of plastic or decorative.
+### 25th-Oct-2021
+* Grimace = twistead expression (on the face) due to pain.
+* Glumy = sadly/gloomily.
+* Making his head spin = givinh him a headache/making him feel dizzy.
+* Chutney = (here) run over/killed; crushed and ground into chutney.
+* Paniked = wasd very worriedd.
