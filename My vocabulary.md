@@ -2479,3 +2479,9 @@ Squashay:;- crushed
 * Chutney:- (here) run over/killed; crushed and ground into chutney.
 * Paniked:- wasd very worriedd.
 * Wobbiy:- unstady
+### 27th-October-2021
+* Hemmed in:- (here) caught in a situation where one can't say 'on'.
+* Acorns:- small brown nuts.
+* Sidled back:- walk back quitely, trying not to be noticed.
+* Evare which way:- in diffecult direction.
+* Makes a bearing:- acts as a compass and helps to identify directions.
