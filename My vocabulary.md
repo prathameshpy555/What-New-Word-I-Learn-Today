@@ -2485,3 +2485,9 @@ Squashay:;- crushed
 * Sidled back:- walk back quitely, trying not to be noticed.
 * Evare which way:- in diffecult direction.
 * Makes a bearing:- acts as a compass and helps to identify directions.
+### 28th-October-2021
+* Exhilarating	= very exciting.
+* Defied = Frustrated; resisted.
+* Tinge = Trace/shade.
+* Surged = Arose suddenly and intensely.
+* Panorama = View of a wide area.
