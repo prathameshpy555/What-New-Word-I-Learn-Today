@@ -2491,3 +2491,9 @@ Squashay:;- crushed
 * Tinge = Trace/shade.
 * Surged = Arose suddenly and intensely.
 * Panorama = View of a wide area.
+### 29th-October-2021
+* Fiend:- devil.
+* Feline:- or relating to.
+* Depravity:- moral corruption.
+* Idle chat:- unnecessary routine conservasition.
+* Smidgen = A small amount of something.
