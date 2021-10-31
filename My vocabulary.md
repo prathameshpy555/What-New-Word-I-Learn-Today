@@ -2503,3 +2503,9 @@ Squashay:;- crushed
 * Throw your mind back:- Think your mind back.
 * Must see about consulting:- may have to consult.
 * Tranquilliser:- a medicen to reduce stress and anxient.
+### 31st-October-2021
+* Utter    = complete.
+* Elusive  = difficult to find.
+* Niche    = a shallow recess, especially one in a wall to display a statue or other ornament.
+* Relevant = closely connected or appropriate to what is being done or considered.
+* Pursue   = follow or chase
