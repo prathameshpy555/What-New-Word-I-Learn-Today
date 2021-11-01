@@ -2509,3 +2509,9 @@ Squashay:;- crushed
 * Niche    = a shallow recess, especially one in a wall to display a statue or other ornament.
 * Relevant = closely connected or appropriate to what is being done or considered.
 * Pursue   = follow or chase
+### 1st-November-2021
+* Scarlet minivet:- brightf red bird like a cuckoo.
+* Drongo:- a song-bird with a stout bill.
+* Drumming:- falling noisily.
+* Disconsolately:- unhappily.
+* ravine:- valley.
