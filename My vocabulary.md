@@ -2515,3 +2515,9 @@ Squashay:;- crushed
 * Drumming:- falling noisily.
 * Disconsolately:- unhappily.
 * ravine:- valley.
+### 2nd-November-2021
+* Bitcoin = an online payment system that does not require an intermediary
+* Bling = jewellery, decoration, or clothing that attracts attention because looks expensive
+* Blog = a regularly updated website or web page, typically one run by an individual or small group
+* Bokeh = visual quality of the out-of-focus areas of a photographic image, especially as rendered by a particular lens.
+* Bongga = extravagant, flamboyant, impressive, stylish, or excellent
