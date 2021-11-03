@@ -2521,3 +2521,9 @@ Squashay:;- crushed
 * Blog = a regularly updated website or web page, typically one run by an individual or small group
 * Bokeh = visual quality of the out-of-focus areas of a photographic image, especially as rendered by a particular lens.
 * Bongga = extravagant, flamboyant, impressive, stylish, or excellent
+### 3rd-November-2021
+* Incandescence= inner gloe or light.
+* Enormous= very big
+* Stirred= move.
+* Clustering= gathering.
+* Fathomless= So deep that depth can't be measured.
