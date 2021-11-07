@@ -2545,3 +2545,9 @@ Squashay:;- crushed
 * Astrophysicist = scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
 * Buoyant = intensely active and vibrant.
 * Torso = upper of the body.
+### 7th-November-2021
+* Lavish = Very grand.
+* Blunder = A stupid or careless mistake.
+* Anxiety = A felling of worry.
+* Utter = complete.
+* Elusive = difficult to find.
