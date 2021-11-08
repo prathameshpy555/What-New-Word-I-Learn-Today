@@ -2551,3 +2551,9 @@ Squashay:;- crushed
 * Anxiety = A felling of worry.
 * Utter = complete.
 * Elusive = difficult to find.
+### 8th-November-2021
+* Earnestly = Sincerly.
+* Folks = People in general.
+* Swede = A large root vegetable.
+* Philosophy = Nature of knowledge.
+* Simplicity = Understanding easyliy.
