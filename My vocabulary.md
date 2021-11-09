@@ -2557,3 +2557,9 @@ Squashay:;- crushed
 * Swede = A large root vegetable.
 * Philosophy = Nature of knowledge.
 * Simplicity = Understanding easyliy.
+### 9th-November-2021
+* Geefully= Very happy.
+* Lyonnesse= (in arthurian legend) the mythical birthplace of Sir Tristram, in England, belived to have been submerged by the sea; here an imaginary place.
+* Rime= frost.
+* The spray= leaves and branches of trees; foliage.
+* Durst= (poetic word for) dared.
