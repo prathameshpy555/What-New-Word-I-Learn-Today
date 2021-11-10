@@ -2563,3 +2563,9 @@ Squashay:;- crushed
 * Rime= frost.
 * The spray= leaves and branches of trees; foliage.
 * Durst= (poetic word for) dared.
+###-November-2021
+* Bargainous = Costing less than expected.
+* Bromance = Close platonic male friendship.
+* Buzzkill = Person or thing that has a depressing effect.
+* Pimp = To make something more showy or impressive.
+* Rock = To do something in a confident, flamboyant way.
