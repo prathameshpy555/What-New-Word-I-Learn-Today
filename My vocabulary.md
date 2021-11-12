@@ -2575,3 +2575,9 @@ Squashay:;- crushed
 * Incessantly = Continuously.
 * Ruinous = Disastrous.
 * Squatted = Sat on their heels.
+### 12th-November-2021
+* Clerk = A person employed to keep a record.
+* Summons = Request.
+* Seek out = find out.
+* Fleeing = To run away.
+* rejoyed = Enjoyed.
