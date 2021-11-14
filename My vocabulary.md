@@ -2587,3 +2587,9 @@ Squashay:;- crushed
 * Sou = A farmer French coin of low value.
 * Awry = Not in the position or shape; twisted.
 * Incessantly = Continuously.
+### 14th-November-2021
+* unabashed - not embarrassed 
+* dilatory - wasting time 
+* alacrity - eagerness
+* callous - disregard for others 
+* cognizant - awareness or realisation 
