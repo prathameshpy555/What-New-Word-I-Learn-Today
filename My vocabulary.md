@@ -2599,3 +2599,9 @@ Squashay:;- crushed
 * Romp:- play
 * Alarm:- frighten.
 * Balked:- (also baulked) was unwilling (to do something)
+### 16th-November-2021
+* Incandescence:- inner gloe or light.
+* Enormous:- very big
+* Stirred:- move.
+* Clustering:- gathering.
+* Fathomless:- So deep that depth can't be measured.
