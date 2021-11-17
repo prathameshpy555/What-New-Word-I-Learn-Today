@@ -2605,3 +2605,9 @@ Squashay:;- crushed
 * Stirred:- move.
 * Clustering:- gathering.
 * Fathomless:- So deep that depth can't be measured.
+### 17th-November-2021
+* Meek:- quite
+* Utter Disbelief:- complete surprise.
+* Head reeled:- He was shoked and confused.
+* Losing his mind:- becoming mad.
+* Intimate:- very personal and private.
