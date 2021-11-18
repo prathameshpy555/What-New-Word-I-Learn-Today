@@ -2611,3 +2611,9 @@ Squashay:;- crushed
 * Head reeled:- He was shoked and confused.
 * Losing his mind:- becoming mad.
 * Intimate:- very personal and private.
+### 18th-November-2021
+* Off and on = Now and then.
+* Having a rough time = Having a lot of problems.
+* Sleuthing = Investigating.
+* Dilated = Enlarged.
+* Sidled back = Walked back quietly.
