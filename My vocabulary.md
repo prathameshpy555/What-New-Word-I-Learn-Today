@@ -2623,3 +2623,9 @@ Squashay:;- crushed
 * Astute  = Having or showing an ability to accurately assess situations.
 * Potent  = Having great power, influence, or effect.
 * Firm    = Having a solid, almost unyielding surface orstructure.
+### 20th-November-2021
+* Pursue = follow or chase.
+* Curious = Eager to know or learn something.
+* Chink = A narrow opening.
+* Passably = Just well ample.
+* Espionage = Spying.
