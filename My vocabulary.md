@@ -2635,3 +2635,9 @@ Squashay:;- crushed
 * Caress:- touching or holding lovingly
 * menace:- threaten.
 * Perpendicular:- (cliff or rock-face) rising very steeply.
+### 22nd-November-2021
+* Poker game = Cards game.
+* Fritzs = German armyy.
+* Tommy = England army.
+* Sloppy = carelessly dressed.
+* Piercingly = In a high pitch.
