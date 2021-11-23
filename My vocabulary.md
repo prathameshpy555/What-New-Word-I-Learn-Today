@@ -2641,3 +2641,9 @@ Squashay:;- crushed
 * Tommy = England army.
 * Sloppy = carelessly dressed.
 * Piercingly = In a high pitch.
+### 23rd-November-2021
+* Bracing = Stimulation.
+* Stimulation = Encouragement.
+* Intimate = Personal or private.
+* Retribution = Punishment.
+* Panorama = View of a wide view.
