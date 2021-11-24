@@ -2647,3 +2647,9 @@ Squashay:;- crushed
 * Intimate = Personal or private.
 * Retribution = Punishment.
 * Panorama = View of a wide view.
+### 24th-November-2021
+* Prime       = Best.
+* Damp        = Wet.
+* Embarrassed = Ashamed.
+* AKA         = Also known as.
+* Pretended   = Not real.
