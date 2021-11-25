@@ -2653,3 +2653,9 @@ Squashay:;- crushed
 * Embarrassed = Ashamed.
 * AKA         = Also known as.
 * Pretended   = Not real.
+### 25th-November-2021
+* Ruinous = Disastrous.
+* Vexation = Distressed.
+* Sou = A farmer French coin of low value.
+* Awry = Not in the position or shape; twisted.
+* Incessantly = Continuously.
