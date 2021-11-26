@@ -2659,3 +2659,9 @@ Squashay:;- crushed
 * Sou = A farmer French coin of low value.
 * Awry = Not in the position or shape; twisted.
 * Incessantly = Continuously.
+### 26-November-2021
+* Scorch marks:- burn marks.
+* Woing for:- was selling for.
+* Restore:- repair.
+* Venner:- A thin layer of plastic or decorative.
+* Clustering:- gathering.
