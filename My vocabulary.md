@@ -2671,3 +2671,9 @@ Squashay:;- crushed
 * Astute  = Having or showing an ability to accurately assess situations.
 * Potent  = Having great power, influence, or effect.
 * Firm    = Having a solid, almost unyielding surface orstructure.
+### 28th-November-2021
+* Crevices:- narrow openings or cracks in rock or wall.
+* Shrew:- (find its hindi equivalent in the next sentance).
+* Caress:- touching or holding lovingly
+* menace:- threaten.
+* Perpendicular:- (cliff or rock-face) rising very steeply.
