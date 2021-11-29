@@ -2677,3 +2677,9 @@ Squashay:;- crushed
 * Caress:- touching or holding lovingly
 * menace:- threaten.
 * Perpendicular:- (cliff or rock-face) rising very steeply.
+### 29th-November-2021
+* Scorch marks:- burn marks.
+* Woing for:- was selling for.
+* Restore:- repair.
+* Venner:- A thin layer of plastic or decorative.
+* Clustering:- gathering.
