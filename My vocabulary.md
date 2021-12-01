@@ -2689,3 +2689,9 @@ Squashay:;- crushed
 * Stirred = move.
 * Clustering = gathering.
 * Fathomless = So deep that depth can't be measured.
+### 1st-November-2021
+* Ditches = Narrow channel.
+* Hinted = Giving hints.
+* Loafing = Avoiding.
+* Companion = A person who spend lot of time with whom one travel.
+* Agreeable sight = Pleasant sight.
