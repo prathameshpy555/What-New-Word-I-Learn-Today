@@ -2689,15 +2689,21 @@ Squashay:;- crushed
 * Stirred = move.
 * Clustering = gathering.
 * Fathomless = So deep that depth can't be measured.
-### 1st-November-2021
+### 1st-December-2021
 * Ditches = Narrow channel.
 * Hinted = Giving hints.
 * Loafing = Avoiding.
 * Companion = A person who spend lot of time with whom one travel.
 * Agreeable sight = Pleasant sight.
-### 2nd-November-2021
+### 2nd-December-2021
 * Balked:- (also baulked) was unwilling (to do something).
 * Worsted sockes:- woolen socks.
 * Astrophysicist:- scholar of astrophysics-of branch of physics deleaing with stars, palanets, ect.
 * Buoyant:- intensely active and vibrant.
 * Torso:- upper of the body.
+### 3rd-December-2021
+* Ditches = Narrow channel.
+* Hinted = Giving hints.
+* Loafing = Avoiding.
+* Companion = A person who spend lot of time with whom one travel.
+* Agreeable sight = Pleasant sight.
