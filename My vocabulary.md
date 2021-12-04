@@ -2707,3 +2707,9 @@ Squashay:;- crushed
 * Loafing = Avoiding.
 * Companion = A person who spend lot of time with whom one travel.
 * Agreeable sight = Pleasant sight.
+### 4th-December-2021
+* Regret = Feel sad.
+* Awesomesauce = Extremely good; excellent.
+* Awfulize = To class as awful or terrible.
+* Awfy = Terrible, dreadful.
+* Broigus = Angry; irritated.
