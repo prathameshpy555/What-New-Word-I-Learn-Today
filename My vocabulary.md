@@ -2713,3 +2713,9 @@ Squashay:;- crushed
 * Awfulize = To class as awful or terrible.
 * Awfy = Terrible, dreadful.
 * Broigus = Angry; irritated.
+### 5th-December-2021
+* Nostalgic  = Feelings.
+* Eliminate  = To remove.
+* Euthenics  = The study of the control of environment.
+* Elicit     = To draw out.
+* Queer      = Strange.
