@@ -2725,3 +2725,9 @@ Squashay:;- crushed
 * Drumming:- falling noisily.
 * Disconsolately:- unhappily.
 * ravine:- valley.
+### 7th-December-2021
+* Scorch marks:- burn marks.
+* Woing for:- was selling for.
+* Restore:- repair.
+* Venner:- A thin layer of plastic or decorative.
+* Clustering:- gathering.
