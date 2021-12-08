@@ -2731,3 +2731,9 @@ Squashay:;- crushed
 * Restore:- repair.
 * Venner:- A thin layer of plastic or decorative.
 * Clustering:- gathering.
+### 8th-December-2021
+* Scorch marks:- burn marks.
+* Woing for:- was selling for.
+* Restore:- repair.
+* Venner:- A thin layer of plastic or decorative.
+* Clustering:- gathering.
