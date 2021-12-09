@@ -2737,3 +2737,9 @@ Squashay:;- crushed
 * Restore:- repair.
 * Venner:- A thin layer of plastic or decorative.
 * Clustering:- gathering.
+### 9th-December-2021
+* Sly = Having or showing a cunning and deceitful nature.
+* Drongo:- a song-bird with a stout bill.
+* Drumming:- falling noisily.
+* Disconsolately:- unhappily.
+* Ravine:- valley.
