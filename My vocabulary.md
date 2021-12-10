@@ -2743,3 +2743,9 @@ Squashay:;- crushed
 * Drumming:- falling noisily.
 * Disconsolately:- unhappily.
 * Ravine:- valley.
+### 10th-December-2021
+* Burned out:- destroy by fire.
+* Boarded up:- covered with wodden boards.
+* Middel headed:- confused.
+* Lit up:- became bright with happiness.
+* Suffused with:- spred all over her face.
