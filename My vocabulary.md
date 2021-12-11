@@ -2749,3 +2749,9 @@ Squashay:;- crushed
 * Middel headed:- confused.
 * Lit up:- became bright with happiness.
 * Suffused with:- spred all over her face.
+### 11th-December-2021
+* Listless = Lacking energy.
+* Scrimmage = Confused struggle.
+* lithe = Flexible.
+* Soothing = Calm effect.
+* Eccentric = Strange.
