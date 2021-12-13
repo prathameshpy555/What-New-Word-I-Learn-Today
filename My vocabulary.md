@@ -2761,3 +2761,9 @@ Squashay:;- crushed
 * Astute = Having or showing an ability to accurately assess situations.
 * Potent = Having great power, influence, or effect.
 * Firm = Having a solid, almost unyielding surface orstructure.
+### 13th-December-2021
+* Throbbing = Beating with a strong, regular rhythm.
+* Ginning = Ginning is the process of removing the seeds and debris from cotton.
+* Mill = A building equipped with machinery for grinding grain into flour.
+* Dowry = An amount of property or money brought by a bride to her husband on their marriage.
+* Limps = Walk with difficulty, typically because of a damaged or stiff leg or foot.
