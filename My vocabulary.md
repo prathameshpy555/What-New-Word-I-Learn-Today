@@ -2767,3 +2767,9 @@ Squashay:;- crushed
 * Mill = A building equipped with machinery for grinding grain into flour.
 * Dowry = An amount of property or money brought by a bride to her husband on their marriage.
 * Limps = Walk with difficulty, typically because of a damaged or stiff leg or foot.
+### 14th-December-2021
+* Pursue = follow or chase.
+* Curious = Eager to know or learn something.
+* Chink = A narrow opening.
+* Passably = Just well ample.
+* Espionage = Spying.
