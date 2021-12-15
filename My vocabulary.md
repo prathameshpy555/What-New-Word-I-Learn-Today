@@ -2773,3 +2773,9 @@ Squashay:;- crushed
 * Chink = A narrow opening.
 * Passably = Just well ample.
 * Espionage = Spying.
+### 15th-December-2021
+* Ruinous = Disastrous.
+* Vexation = Distressed.
+* Sou = A farmer French coin of low value.
+* Awry = Not in the position or shape; twisted.
+* Incessantly = Continuously.
