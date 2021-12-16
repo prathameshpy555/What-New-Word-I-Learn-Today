@@ -2779,3 +2779,9 @@ Squashay:;- crushed
 * Sou = A farmer French coin of low value.
 * Awry = Not in the position or shape; twisted.
 * Incessantly = Continuously.
+### 16th-December-2021
+* Immense:- huge
+* Enormous:- very big.
+* Gigantic:- immense.
+* Clustering:- gathering.
+* Being:- kind, gentle.
