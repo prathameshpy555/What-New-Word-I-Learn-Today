@@ -2785,3 +2785,9 @@ Squashay:;- crushed
 * Gigantic:- immense.
 * Clustering:- gathering.
 * Being:- kind, gentle.
+### 17th-December-2021
+* Bare = Uncovered.
+* Hangouts = A place were a person visit's frequently.
+* Glad = Feeling happy.
+* Cent = Currency unit.
+* Owes = Pay or repay.
