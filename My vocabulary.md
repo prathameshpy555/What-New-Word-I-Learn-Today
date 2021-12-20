@@ -2803,3 +2803,9 @@ Squashay:;- crushed
 * Stirred= move.
 * Clustering= gathering.
 * Fathomless= So deep that depth can't be measured.
+### 20th-December-2021
+* Utter = complete.
+* Elusive = difficult to find.
+* Niche = a shallow recess, especially one in a wall to display a statue or other ornament.
+* Relevant = closely connected or appropriate to what is being done or considered.
+* Pursue = follow or chase
