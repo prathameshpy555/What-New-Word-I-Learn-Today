@@ -2809,3 +2809,9 @@ Squashay:;- crushed
 * Niche = a shallow recess, especially one in a wall to display a statue or other ornament.
 * Relevant = closely connected or appropriate to what is being done or considered.
 * Pursue = follow or chase
+### 21st-December-2021
+* Conscientious: careful and correct.
+* Head was in whirl:- confused and anable to think clearly.
+* Gather his wits together:- make an effort to become calm and think clearly.
+* Having a rough time:- having a lot of problems.
+* Turning up like a bad penny:- appearing at a place where one is not welcome.
