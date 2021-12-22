@@ -2815,3 +2815,9 @@ Squashay:;- crushed
 * Gather his wits together:- make an effort to become calm and think clearly.
 * Having a rough time:- having a lot of problems.
 * Turning up like a bad penny:- appearing at a place where one is not welcome.
+### 22nd-December-2021
+* unabashed - not embarrassed 
+* dilatory - wasting time 
+* alacrity - eagerness
+* callous - disregard for others 
+* cognizant - awareness or realisation 
