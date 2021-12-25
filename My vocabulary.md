@@ -2827,3 +2827,15 @@ Squashay:;- crushed
 * Sou = A farmer French coin of low value.
 * Awry = Not in the position or shape; twisted.
 * Incessantly = Continuously.
+### 24th-December-2021
+* Bracing:- stimulating.
+* Going nuts:- going mad.
+* Geting into people's hair:- interfering.
+* Sleuthing:- investing.
+* Carry on:- continue.
+### 25th-December-2021
+* Didn't beat about the bush:- came straight to the point.
+* Off and on:- now and then.
+* Throw your mind back:- Think your mind back.
+* Must see about consulting:- may have to consult.
+* Tranquilliser:- a medicen to reduce stress and anxient.
