@@ -2839,3 +2839,9 @@ Squashay:;- crushed
 * Throw your mind back:- Think your mind back.
 * Must see about consulting:- may have to consult.
 * Tranquilliser:- a medicen to reduce stress and anxient.
+### 26th-December-2021
+* Carriages = Any of the separate sections of a train that carry passengers.
+* Heavily = To a great degree; in large amounts.
+* Tuck = Push.
+* Appealing = Attractive.
+* Grunting = Making low guttural sounds.
