@@ -2845,3 +2845,9 @@ Squashay:;- crushed
 * Tuck = Push.
 * Appealing = Attractive.
 * Grunting = Making low guttural sounds.
+### 27th-December-2021
+* Smidgen = Small amount of something.
+* Regret = Feel sad.
+* Dilatory = Wasting time.
+* Tuck = Push.
+* Utter = Complete.
