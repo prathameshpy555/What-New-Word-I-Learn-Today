@@ -2851,3 +2851,9 @@ Squashay:;- crushed
 * Dilatory = Wasting time.
 * Tuck = Push.
 * Utter = Complete.
+### 28th-December-2021
+* Meek:- Quite
+* Utter Disbelief:- Complete surprise.
+* Head reeled:- He was shoked and confused.
+* Losing his mind:- Becoming mad.
+* Intimate:- Very personal and private.
