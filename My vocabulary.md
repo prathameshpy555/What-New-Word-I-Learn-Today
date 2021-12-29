@@ -2857,3 +2857,9 @@ Squashay:;- crushed
 * Head reeled:- He was shoked and confused.
 * Losing his mind:- Becoming mad.
 * Intimate:- Very personal and private.
+### 29th-December-2021
+* Listless = Lacking energy.
+* Scrimmage = Confused struggle.
+* lithe = Flexible.
+* Soothing = Calm effect.
+* Eccentric = Strange.
