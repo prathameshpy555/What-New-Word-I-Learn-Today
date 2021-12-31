@@ -2869,3 +2869,9 @@ Squashay:;- crushed
 * Euthenics  = The study of the control of environment.
 * Elicit     = To draw out.
 * Queer      = Strange.
+### 31st-December-2021
+* Withstood:- endured without collapsing.
+* Sure:- Momentum.
+* Def:- disobey or resist openly.
+* Scotland:- the headquaters of the London police force.
+* Flying Squad:- a group of police or soldiers ready to move into action quickly.
